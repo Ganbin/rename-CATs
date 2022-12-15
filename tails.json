@@ -1,0 +1,3602 @@
+{
+    "tails": [
+        {
+            "hash": "14b40962dfef81d954ac0d92b51ec21ce7acd8c62dd9fef9303aa51c615cb495",
+            "name": "LLC Burn Token",
+            "code": "LLBT",
+            "description": "LLC Burn Token can only be acquired by burning a Little Lambo Coin. There is a 1 year supplies worth of Little Lambo Coins to be burnt in return for LLC tokens. Burn 1 coin, get 1 token. Once all burn tokens have been acquired there will never be another minted. 13,458,723 tokens have been minted.",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/f38d9f3e-8bab-4480-80ac-2f64d4793c53.png",
+            "supply": 26917446,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": "https://littlelambocoin.com/llc-burn-token",
+            "twitter_url": "https://twitter.com/LittleLamboCoin",
+            "discord_url": "https://discord.gg/Ew96DzCxc7",
+            "category": "Meme"
+        },
+        {
+            "hash": "69776ba48bada66d8be4a4dd97290e73197fe20f1cfb294429be5304bd3527ed",
+            "name": "XCHDOG",
+            "code": "BYTE",
+            "description": "XCHDOG is Chia's best friend. There are total of 1024 BYTE's, and as of now they're  for collectors. Who want's a BYTE from the XCHDOG?",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/056eb9c7-f17a-41fb-acd7-5bcfd971c654.png",
+            "supply": null,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": "https://twitter.com/xch_dog",
+            "twitter_url": "https://twitter.com/xch_dog",
+            "discord_url": "https://discord.gg/wcQqTqTt",
+            "category": "Meme"
+        },
+        {
+            "hash": "3a80cd9e78201cc103647b4cae86616b7b85908a1db2839c8d543531fc660b7d",
+            "name": "Billybux",
+            "code": "BBUX",
+            "description": "Collectable, delectable, respectable, injectable 🪤",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/906ebc78-9e91-4b2c-ad31-1fe8fb770f56.png",
+            "supply": null,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": "https://onlybillys.com",
+            "twitter_url": null,
+            "discord_url": null,
+            "category": "Meme"
+        },
+        {
+            "hash": "7d9e10895f967c7fb67eb9b6f866b636d73a336eb50b4097260cad0be70e5b90",
+            "name": "BLANK",
+            "code": "BLANK",
+            "description": "Blank",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/84e08d3e-51e0-49cc-9b6e-3756eee67669.png",
+            "supply": null,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": null,
+            "twitter_url": "https://twitter.com/",
+            "discord_url": null,
+            "category": "Gaming"
+        },
+        {
+            "hash": "ce9dfce94a5a65c0207bf3d57b407db559e9cd34f2050f8bd61291b42bead361",
+            "name": "Abandoned Land - Food",
+            "code": "ALFOOD",
+            "description": "Abandoned Land Food",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/abc03e8c-3cd6-41b1-90ee-d5f1c30ddb20.png",
+            "supply": null,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": "https://abandoned.land",
+            "twitter_url": "https://twitter.com/MayorAbandoned",
+            "discord_url": "https://discord.gg/eyr56jNxym",
+            "category": "Gaming"
+        },
+        {
+            "hash": "a1b036efdc6767f612dc2c8f9a1107c7e879f7d02881c67085ba37f79ef23536",
+            "name": "Dred Pirate Roberts",
+            "code": "DPR",
+            "description": "DPR+XCH=?",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/3c891e76-7c4b-4abc-b1b1-b2fc8c110fe6.jpeg",
+            "supply": 2000000,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": null,
+            "twitter_url": null,
+            "discord_url": null,
+            "category": "Event"
+        },
+        {
+            "hash": "c3abdd9c4932b34600cd33c998ec813e5b32c6125db301637c0d7f52189fc292",
+            "name": "Comic Book",
+            "code": "COMIC",
+            "description": "Comic Books are collectors items for the Wasteland. There are only 500",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/c1b7fab1-fb2b-4e70-acad-f1b00f3bb8f0.png",
+            "supply": null,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": "https://twitter.com/xch_dog",
+            "twitter_url": "https://twitter.com/xch_dog",
+            "discord_url": "https://discord.gg/bACjK5XSBD",
+            "category": "Gaming"
+        },
+        {
+            "hash": "0a039f753ba4387869fc001771518d802bff1123d2aad5a885cca57a78492241",
+            "name": "Farmer Diamonds - Plot",
+            "code": "PLOT",
+            "description": "1 Plot CAT equals to 1 k32 Chia Proof of Space and Time plot hosted in our farm. The holder of this CAT gains the pool outcome created by the rented plots minus transaction fees until the first halving in 2024.",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/0fbabb80-1f1c-43d2-b68a-007f28c7638a.png",
+            "supply": null,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": "https://farmer.diamonds",
+            "twitter_url": "https://twitter.com/FarmerDiamonds",
+            "discord_url": null,
+            "category": "Platform"
+        },
+        {
+            "hash": "ea3e045df9fe9a7844cbb56f500bd146354d9e6f8c970b2ff8f8842d77442e97",
+            "name": "RADICOLA CAPS",
+            "code": "RAD",
+            "description": "RAD Caps are a cash for the Wasteland and somewhat rare with only 100,000 in supply. Look out for the rarer RADIQ!!",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/fc90a599-5e80-433e-b33e-982f2d3c824c.jpeg",
+            "supply": null,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": "https://twitter.com/xch_dog",
+            "twitter_url": "https://twitter.com/xch_dog",
+            "discord_url": null,
+            "category": "Meme"
+        },
+        {
+            "hash": "6d3d2c9709d8e89d4707fa4f5f3e69269bd0b825a22da4fa45ed517da95136e0",
+            "name": "LLC Asset Token",
+            "code": "LLAT",
+            "description": "LLC Asset Token. A limited supply of 1000000 tokens have been minted. All tokens will be distributed to LLC farmers. The first distribution will be for 250,000 tokens. Each farmer will receive 1000 tokens. There will be a total of 2 distributions during 2022, and 2 distributions in 2023.",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/97940ccf-490c-4bf7-a5c1-ee1c0bc8c5fe.png",
+            "supply": 3000000,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": "https://littlelambocoin.com/llc-asset-token",
+            "twitter_url": "https://twitter.com/LittleLamboCoin",
+            "discord_url": "https://discord.gg/Ew96DzCxc7",
+            "category": "Meme"
+        },
+        {
+            "hash": "08410d6db9addd81b7c1342c104b27444c1491f51394b6eb6860fe7de3877532",
+            "name": "Space Time Cats",
+            "code": "STC",
+            "description": "Space Time Cats ",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/68858795-303d-4af5-9779-b8579d360d70.jpeg",
+            "supply": null,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": "https://spacetimecats.com/",
+            "twitter_url": "https://twitter.com/spacetimecats",
+            "discord_url": "https://discord.gg/bF3NJ8kvBX",
+            "category": "Meme"
+        },
+        {
+            "hash": "450d89e992449b10ff510dde612488046ec9560e4b5559a48d343a6b75a4b427",
+            "name": "STAKE 2.0",
+            "code": "STAKE",
+            "description": "The token is designed to receive income from all token buyers. The faster the more income. All token owners get animated NFT for FREE!",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/2ea3d22e-3fcc-4c03-848c-55b3be13be3b.gif",
+            "supply": null,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": "https://need4token.com/",
+            "twitter_url": "https://twitter.com/WNFToken",
+            "discord_url": "https://discord.gg/TrqmPt4wwA",
+            "category": "Event"
+        },
+        {
+            "hash": "79f6313fdb6ba66347a5bcad4af6878ac07bf5fafedeb384c3b350d913c8b6b6",
+            "name": "NioCoin",
+            "code": "NIOC",
+            "description": "NioCoin for the future - Proof of Time & Luck consensus. Up to a maximum of 576 Airdrops per day with a halving every 4 years.",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/9d96dd2b-8737-410e-bd89-5a5435b595a0.png",
+            "supply": null,
+            "hashgreen": {
+                "price": "0.00253000000000000013073",
+                "marketcap": 79695
+            },
+            "website_url": "https://niocoin.info",
+            "twitter_url": "https://twitter.com/NioCoinInfo",
+            "discord_url": "https://discord.gg/KJ7uge7gxA",
+            "category": "Meme"
+        },
+        {
+            "hash": "c81ce4f5875ec8a898ed325a2ea472b9cb06fd5093d99926685a8cbd124a2a78",
+            "name": "Felix Blue",
+            "code": "FLXB",
+            "description": "Felix Blue limited to 10,000 in the Felix collection",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/f0b56d7f-f0a2-4dac-a691-a46bf2b62f18.png",
+            "supply": null,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": null,
+            "twitter_url": null,
+            "discord_url": "https://discord.gg/kPdGewqBJC",
+            "category": "Meme"
+        },
+        {
+            "hash": "2ed236fe3fa979eaad87d89d10f9156539526f8b6c60d6f341f9de5b1f7c19f5",
+            "name": "Soon to moon",
+            "code": "SMOON",
+            "description": "CAT backed in a ratio of 1:42 by the number of messages in Chia´s official keybase team sent by moderators in the first year of mainnet that contained the word \"soon\"",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/e52c5127-d623-4062-9485-1c8fe898310f.png",
+            "supply": null,
+            "hashgreen": {
+                "price": "0.35599999999999998312461",
+                "marketcap": null
+            },
+            "website_url": "https://www.soonalytics.com/smoon/",
+            "twitter_url": "https://twitter.com/soonalytics",
+            "discord_url": null,
+            "category": "Meme"
+        },
+        {
+            "hash": "c012fb7c993e11075f7234066ac851b5434d7305ceda871629136dfaac4d54fe",
+            "name": "CATMOS Rock",
+            "code": "CATRCK",
+            "description": "Represents \"rocks\" in Catmosphere Rock-Paper-Scissors games",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/432d7cde-ecd1-4aa4-a5a8-3de9a02ed290.jpeg",
+            "supply": null,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": "https://catmos.io",
+            "twitter_url": "https://twitter.com/CatmosCoin",
+            "discord_url": "https://discord.com/invite/r7j2XPZJYU",
+            "category": "Gaming"
+        },
+        {
+            "hash": "af7c58b91d286376b6f3602fa18211e4a0b6abc7edf54f3fa3806730ca5f674b",
+            "name": "CATMOS Paper",
+            "code": "CATPPR",
+            "description": "Represents \"papers\" in Catmosphere Rock-Paper-Scissors games.",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/6655c1de-3c10-41d8-89b2-09b4b73e8dcf.jpeg",
+            "supply": null,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": "https://catmos.io",
+            "twitter_url": "https://twitter.com/CatmosCoin",
+            "discord_url": "https://discord.com/invite/r7j2XPZJYU",
+            "category": "Gaming"
+        },
+        {
+            "hash": "0ed71c399419b16df76ae7cde9fa257f1dbf845bef462b7f9ea6de8d181cdf97",
+            "name": "City Illusion Coin",
+            "code": "CIC",
+            "description": "An urban form based on Web3.0 fantasy\r\n999 cities with different forms！\r\nFans token of the ‘’City Illusion’ NFT project\r\n10000 CIC = 1 NFT",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/b9633467-2bc4-448c-a3cc-00be18ba3554.png",
+            "supply": null,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": "https://skynft.org/collection.php?COLLECTIONID=20220630030037_b9f0324cc60a457b1686a927ad5a1e3f",
+            "twitter_url": "https://twitter.com/misachen0911",
+            "discord_url": "https://discord.gg/xwCDGUgr6g",
+            "category": "Platform"
+        },
+        {
+            "hash": "287b633167f822353444492c96030db71ee78e6ac33897ea4c572623aa4c94d2",
+            "name": "Fools Gold",
+            "code": "XIP",
+            "description": "Fools Gold is a single mint Chia CAT token with a max supply of 1,618,033,988 XIP and has absolutely no monetary value.",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/73d84a53-33b1-46bf-9698-44c23ed15a4b.png",
+            "supply": null,
+            "hashgreen": {
+                "price": "0.00000191999999999999983",
+                "marketcap": 3106.6252569599997
+            },
+            "website_url": "https://www.foolsgoldcat.com/",
+            "twitter_url": "https://twitter.com/foolsgoldcat",
+            "discord_url": "https://discord.gg/m3nwRbAdd9",
+            "category": "Meme"
+        },
+        {
+            "hash": "ef9df6c687ed9a325369f32ba38eb6dc83a1bd081e159a9b2dddfe6159e2ecf0",
+            "name": "WTF2 att-adj-tok",
+            "code": "WTF2",
+            "description": "",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/75b285d5-3295-422c-9211-04dc2c9c86b7.png",
+            "supply": 160734034,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": "http://mondomonkey.com",
+            "twitter_url": "https://twitter.com/MonkeyMondo",
+            "discord_url": null,
+            "category": "Meme"
+        },
+        {
+            "hash": "0f8676bd61b83d8cc8543cf75a54bb6963ea7c9465eb2da4b84901778ad37d3f",
+            "name": "XCHPOOL Discount Coupon",
+            "code": "XPCD",
+            "description": "",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/e4ca53e5-b9d7-454d-90e4-9aae66ea93ce.jpeg",
+            "supply": null,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": "https://explorer.xchpool.org/coupon",
+            "twitter_url": "https://twitter.com/xchpool",
+            "discord_url": null,
+            "category": "Meme"
+        },
+        {
+            "hash": "7d9e10895f967c7fb67eb9b6f866b636d73a336eb50b4097260cad0be70e5b97",
+            "name": "Bram Coin",
+            "code": "BRAM",
+            "description": "Bram Coin is a very limited edition. Only for Bram Cohen fans.  A maximum of 100 $BRAM will be distributed per year. Each holder of 1 $BRAM will be able to claim its correlating NFT.",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/78e26474-3c25-4f2f-a496-5af360d97522.png",
+            "supply": null,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": "https://twitter.com/bram_coin",
+            "twitter_url": "https://twitter.com/bram_coin",
+            "discord_url": null,
+            "category": "Meme"
+        },
+        {
+            "hash": "3ee6ab1c8fcf69c8a0c68a03717d40bbc012e2b898edaa733ea8e0bf1146e9d5",
+            "name": "Hema DAO",
+            "code": "HDT",
+            "description": "We are a community driven media & NFT DAO in Chia.",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/af6e7a57-8b11-46a6-87c6-095d2b26cfc9.png",
+            "supply": 3033319339,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": "https://www.hemadao.com",
+            "twitter_url": "https://twitter.com/_HemaDAO_",
+            "discord_url": "https://discord.gg/R94VwK7NkU",
+            "category": "Education"
+        },
+        {
+            "hash": "2e28b8334c17ce291a29159be092dd7723d59534eab41a0a0b974e6db1183e5a",
+            "name": "Spriggan Founder",
+            "code": "SPRIGF",
+            "description": "Holders of this Founders token will be exempt from paying all fees on the Spriggan PC gaming marketplace. This will effectively be a 5% discount on every game sold on Spriggan.",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/5f197510-27ee-4806-aff5-a13c0ab675c3.png",
+            "supply": null,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": null,
+            "twitter_url": "https://twitter.com/Gaeraxx",
+            "discord_url": "https://discord.gg/3C8cgfS6e9",
+            "category": "Gaming"
+        },
+        {
+            "hash": "948b43068a09895cdfdf3a3eae857eec450a34677fe69fc5ce39df36b3a40fec",
+            "name": "Crew of Eight",
+            "code": "CO8",
+            "description": "This is a pre-sale token for the 3D NFT collection \"Crew of Eight\". Holders of these tokens can redeem them 1:1 for an NFT once it becomes available on the Chia blockchain.",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/8e50b357-ead0-42b1-a860-900d84623e4f.png",
+            "supply": 6534,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": null,
+            "twitter_url": "https://twitter.com/CrewOfEight_",
+            "discord_url": "https://discord.gg/UjmxjX7yJY",
+            "category": "Event"
+        },
+        {
+            "hash": "c5741ee5b3dd911f86c52952797c6a6f4c6024f7c0027f1c65ec89af01d8ed30",
+            "name": "Naked Emperor",
+            "code": "NKDE",
+            "description": "The clothes made from this wonderful cloth would be invisible to everyone who was unfit for the job he held, or who was very simple in character.",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/22afe9f5-6596-45b8-83ec-ac92c83133fc.jpeg",
+            "supply": null,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": null,
+            "twitter_url": null,
+            "discord_url": null,
+            "category": "Meme"
+        },
+        {
+            "hash": "d2039f75557be47a2679bd870949d834c943208e2a33cc798fc8bb6d6b95af48",
+            "name": "OKRA",
+            "code": "OKRA",
+            "description": "",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/54e8a24d-36f3-4ea0-9a0e-43e0cdf75796.png",
+            "supply": null,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": "https://okra.space",
+            "twitter_url": "https://twitter.com/SpaceOkra",
+            "discord_url": "discord.gg/2fzkaYuveH",
+            "category": "Meme"
+        },
+        {
+            "hash": "0fe711bf57d0222603a8d3e13df54b29382373ab2b05261c69667360a5738d64",
+            "name": "Sappho Lyric",
+            "code": "NOT1",
+            "description": "A coin so rare there is not even one in existence. Like most of Sappho's lyrics it exists only in fragments. Maybe an archaeologist can dig one up for you.",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/16d58442-7f8a-42e8-9f05-a5613bbb45f4.jpeg",
+            "supply": null,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": "http://stellacoin.io/#955af59b-4b91-44f1-adb0-26afa3e728b3",
+            "twitter_url": null,
+            "discord_url": null,
+            "category": "Education"
+        },
+        {
+            "hash": "b9aef34a93278955a976bb71b3916ab67f50797cd9a4cb6c5c3dbbc7b14af665",
+            "name": "Big fan NFT token 2.0",
+            "code": "BONUS",
+            "description": "Reward token to our biggest fans for their activity. Limited series of 10 tokens",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/34bc4968-b00e-4def-8405-672bd36c4907.png",
+            "supply": null,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": "https://need4token.com/",
+            "twitter_url": "https://twitter.com/WNFToken",
+            "discord_url": "https://discord.gg/8cVTPGsbYR",
+            "category": "Meme"
+        },
+        {
+            "hash": "1d4a4cd0e7088f9fddb249a5a50bb5bde193cbc8787c7a3f82eb3bd5a3d9436f",
+            "name": "xxx",
+            "code": "ERROR1",
+            "description": "MAKE YOU BOTTLE OF WINE. 10 GRAPE MAKE 1 GRAPES",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/522f1092-3fab-491c-92f7-39dafec0fa0f.png",
+            "supply": null,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": null,
+            "twitter_url": "https://twitter.com/ApuliaGrapes",
+            "discord_url": null,
+            "category": "Meme"
+        },
+        {
+            "hash": "3d597f5dd9d9249be84b515dcb22442a773afa2aa210c27624ce3bc612e9c3d3",
+            "name": "$moto",
+            "code": "MOTO",
+            "description": "NOT AN INVESTMENT VEHICLE - THIS TOKEN IS AN ATTEMPT AT UNDERSTANDING HOW PONZI TOKENS WORK AND WILL STEAL ALL YOUR MONEY",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/67883c09-c1d3-423a-85dd-f2f44a6a5e63.png",
+            "supply": 4000011,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": null,
+            "twitter_url": null,
+            "discord_url": null,
+            "category": "Education"
+        },
+        {
+            "hash": "1959758d650caff790f6e8b430aed7cd3854a93875c293dbc7cc9ee4841d3f50",
+            "name": "Chialing Twenties",
+            "code": "XL20",
+            "description": "These are the TWENTY token denomination of Chialing currency.  Visit the Chialing website or my Discord to learn more about them! The twitter link here is for Chialing NFT Certificates, for which these CATs can be redeemed...",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/1ae9ca1f-6551-4362-bec2-06d0ff74699e.png",
+            "supply": null,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": "https://bafybeifijcgk64pny3vdjjxhivcbdo3g2nm37notjz453zh5rq6y543ef4.ipfs.nftstorage.link/",
+            "twitter_url": "https://twitter.com/ChialingCerts",
+            "discord_url": "https://discord.gg/JbWRKZCpzk",
+            "category": "Meme"
+        },
+        {
+            "hash": "49fd76384a4fced922d99d28a646dd0439ab753ad15fcfea8ef50213804112e6",
+            "name": "Solar CAT",
+            "code": "SCAC",
+            "description": "CAT pegged to the Unique Users for the Cactus Fork at the time of this Minting. 35636",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/3df6ee28-5d88-4e8c-a038-c612a1337298.png",
+            "supply": null,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": "www.cactus-network.net",
+            "twitter_url": "https://twitter.com/network_cactus",
+            "discord_url": "https://discord.gg/2Q8RcVacWP",
+            "category": "Meme"
+        },
+        {
+            "hash": "509deafe3cd8bbfbb9ccce1d930e3d7b57b40c964fa33379b18d628175eb7a8f",
+            "name": "Chia Holiday 2021",
+            "code": "CH21",
+            "description": "This token was airdropped into every wallet that received a farmer reward for a block between the launch of Mainnet on March 19th, 2021 and Christmas Day 2021.",
+            "chialisp": "; This is a \"limitations_program\" for use with cat.clvm.\n(mod (\n      PUBKEY\n      Truths\n      parent_is_cat\n      lineage_proof\n      delta\n      inner_conditions\n      (\n        delegated_puzzle\n        delegated_solution\n      )\n    )\n\n    (include condition_codes.clvm)\n\n    (defun sha256tree1 (TREE)\n          (if (l TREE)\n              (sha256 2 (sha256tree1 (f TREE)) (sha256tree1 (r TREE)))\n              (sha256 1 TREE)))\n\n    (c (list AGG_SIG_UNSAFE PUBKEY (sha256tree1 delegated_puzzle))\n      (a delegated_puzzle (c Truths (c parent_is_cat (c lineage_proof (c delta (c inner_conditions delegated_solution))))))\n    )\n)",
+            "clvm": "(a (q 2 (q 4 (c 4 (c 5 (c (a 6 (c 2 (c 639 ()))) ()))) (a 639 (c 11 (c 23 (c 47 (c 95 (c -65 1407))))))) (c (q 49 2 (i (l 5) (q 11 (q . 2) (a 6 (c 2 (c 9 ()))) (a 6 (c 2 (c 13 ())))) (q 11 (q . 1) 5)) 1) 1)) (c (q . 0xb1daa96d1fa197cbe77b16c9865acd72ed58cf675c5567942c1004e3c992a01fed8d756ab3c5b8da950b9aa922df98e3) 1))",
+            "logo_url": "https://images.taildatabase.com/tails/3cf6d329-39d7-4ae1-8f5c-f038b7595bca.png",
+            "supply": 3000000,
+            "hashgreen": {
+                "price": "13.3000000000000007105427",
+                "marketcap": 39900000
+            },
+            "website_url": null,
+            "twitter_url": null,
+            "discord_url": null,
+            "category": "Event"
+        },
+        {
+            "hash": "487d889d0000cb6d7c6c5caf2c30775ef409d3a5b4f5a544e8a6de1c511fae03",
+            "name": "Quatloo",
+            "code": "QTLO",
+            "description": "A quatloo was a monetary unit on the planet Triskelion which was used by the planet's \"Providers\" to bet on thrall competitions. When the currency is held in the hand, it has been known to grant telekinesis to its owner. The currency has since become a very rare and highly collectible commodity. Well known collector \"Kivas Fajo\" was known to have a large amount of the currency, until his arrest and confiscation of his collection. If you have an opportunity to acquire one, do so!",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/66ae2c36-a96f-4e0e-a62e-be49737e2828.jpeg",
+            "supply": null,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": null,
+            "twitter_url": null,
+            "discord_url": null,
+            "category": "Meme"
+        },
+        {
+            "hash": "a06791271e9b3a8d262aeb1f688aa10adbd60b33e1df24fa057c1172dd0e8214",
+            "name": "RMD Fan Token",
+            "code": "RMDT",
+            "description": "Unofficial RMD Token. This token is just for fun and for RMD fans.\r\nIn the future, RMDT can be staked to earn NFT rewards.\r\nGrab them via airdrops, winning competitions, staking, purchasing or from being donated.\r\nFollow us in Twitter to receive your tokens.",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/57fbbd8c-1bd7-49f8-8db8-9ec23b092de5.png",
+            "supply": null,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": "https://twitter.com/ClubsChiaToken",
+            "twitter_url": "https://twitter.com/ClubsChiaToken",
+            "discord_url": null,
+            "category": "Meme"
+        },
+        {
+            "hash": "e014d6ad9e56181aace636b348721aee6af8a37504de8aaab6efb3aee506afc2",
+            "name": "Wasteland Tails",
+            "code": "TAILS",
+            "description": "Wasteland Tails: These will be released in sets of 10 with only\r\n10 Tokens available",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/81a6c2fe-41e2-4953-b7b2-10464c13176b.png",
+            "supply": null,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": "https://twitter.com/xch_dog",
+            "twitter_url": "https://twitter.com/xch_dog",
+            "discord_url": "https://discord.gg/bACjK5XSBD",
+            "category": "Event"
+        },
+        {
+            "hash": "fa27338829703d9c195f775b28fce529f35dd185cd9df97eaba860c489ac3991",
+            "name": "OnlyFansToken",
+            "code": "OFT",
+            "description": "The NFT trading platform on the chia chain allows creators to get more feedback from buyers, allowing buyers to buy potential NFTs. OFT is the token of our website. The ability to create NFTs with AI will be added in the future.",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/325ebfbd-5056-4a41-b3ed-fa8dce603a31.jpeg",
+            "supply": null,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": "http://www.onlyfansnft.art",
+            "twitter_url": "https://twitter.com/Onlyfansnft_art",
+            "discord_url": "https://discord.gg/ZKNtFypSrx",
+            "category": "Platform"
+        },
+        {
+            "hash": "8a0208f53687ca9dfc5ea48dd14396461707848baeae6230b4977b05654ea8a0",
+            "name": "The 300 Spartans",
+            "code": "300",
+            "description": "",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/40c1ad9f-2e5b-41ef-9959-73a1a5d62651.png",
+            "supply": 908.638999999999,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": "https://www.the300.net/",
+            "twitter_url": "https://twitter.com/The_300_SPTN",
+            "discord_url": "https://discord.com/invite/MeJF2CzzFj",
+            "category": "Meme"
+        },
+        {
+            "hash": "0x01bfa19bb4767904e649f0e47fa82037f36ca49d12a824e9a87d576eaa7065",
+            "name": "Project Almanac",
+            "code": "PAMC",
+            "description": "CO-insides with pass/future dates of the Cryptocurrency space. ",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/a7c1483c-1bf2-461a-847a-9569c6abc30d.jpeg",
+            "supply": null,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": null,
+            "twitter_url": "https://twitter.com/ProjectAlmanac0",
+            "discord_url": null,
+            "category": "Event"
+        },
+        {
+            "hash": "a82b3a2d2b9bb4d9fbdb4bd3bfce4bf56a1d1859a366e56fecf95790aed49094",
+            "name": "Cassandre Fairies Club",
+            "code": "CF1",
+            "description": "15784 CF1 out of 16432 total.\r\nDiscover at minting which color set you've picked up!\r\nA Hero Set? Or one of the very few Villain Set?",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/2466d24a-549a-4afc-b014-10568ac0bf77.png",
+            "supply": null,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": "https://www.cassandre-fairies-club.com/",
+            "twitter_url": "https://twitter.com/CassFairiesClub",
+            "discord_url": null,
+            "category": "Education"
+        },
+        {
+            "hash": "eb11cb4c71f73e4fedc7f74501b9ec4505bf960fe89924c4952d74a1a204eae1",
+            "name": "Space RatZ NFT",
+            "code": "RATZ",
+            "description": "We have decided to unite with our fellow chia farmers and xch believers. Unique SpaceRatZ NFT collection of 100 NFTs on chia blockchain. Together we are strong as community!!  1RATZ = 1xch you can preorder and reserve the art on discord.",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/8464e3df-4028-414b-b71d-bdae71a78d6d.png",
+            "supply": null,
+            "hashgreen": {
+                "price": "224.419999999999987494447",
+                "marketcap": 26930.399999999998
+            },
+            "website_url": "https://spaceratznft.xyz/",
+            "twitter_url": "https://twitter.com/SpaceRatZNFT",
+            "discord_url": "https://discord.gg/qckqVMcsyM",
+            "category": "Wrapped Crypto"
+        },
+        {
+            "hash": "44a7a9e4666c82465e3429a4600748848e122e55a3de0fbb0bb33caf42b4188a",
+            "name": "Erikoiskalja",
+            "code": "BISSE",
+            "description": "Lahtelainen olut on palannut valikoimaan vuosien jälkeen ilahduttamaan oluenystäviä erikoisen herkullisilla oluillaan.",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/36e579d4-d91c-457f-9ead-f57051ef9384.jpeg",
+            "supply": 104,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": null,
+            "twitter_url": null,
+            "discord_url": null,
+            "category": "Meme"
+        },
+        {
+            "hash": "d0b6098e494db061bf0c28a5c7d94de6c06de23dddd705b29d7857c420b123a2",
+            "name": "ROCKS",
+            "code": "ROCKS",
+            "description": "Voting token for Lonely ROCKS' curation system.",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/b912bc1d-6adc-42c6-982c-3e0f57fb14b3.png",
+            "supply": 9282544,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": "https://lonely.rocks",
+            "twitter_url": "https://twitter.com/lonelyrocksart",
+            "discord_url": "https://discord.gg/ySWPHaxtje",
+            "category": "Platform"
+        },
+        {
+            "hash": "3490208d3c2048b3f6efbc46cf65de7732ed5a1dd8dd5fcfe02a829a61273230",
+            "name": "MAN Fan Token",
+            "code": "MANT",
+            "description": "Unofficial MAN Token. This token is just for fun and for MAN fans.\r\nIn the future, MANT can be staked to earn NFT rewards.\r\nGrab them via airdrops, winning competitions, staking, purchasing or from being donated.\r\nFollow us in Twitter to receive your tokens.",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/87b40541-987f-4e14-a468-9de921f69239.png",
+            "supply": null,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": "https://twitter.com/ClubsChiaToken",
+            "twitter_url": "https://twitter.com/ClubsChiaToken",
+            "discord_url": null,
+            "category": "Meme"
+        },
+        {
+            "hash": "f7ae5eb93781ac90632ce2429be9171b2f3615ac89f70e54a23a1386c910306a",
+            "name": "Undead King",
+            "code": "KING",
+            "description": "The Undead King had his finest craftsghoul forge 1313 of these priceless coins.  Engraved with  \"Rex mortuus est, vivat rex\" (The King is dead, long live the King) and \"\r\nExsurge inmortui multitudine\" (Arise undead hordes) these rare tokens of loyalty can only be obtained by the most undead of the dead and are exchangeable for an NFT.",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/64a0a957-7689-4506-aa18-7500d3c0da3e.png",
+            "supply": null,
+            "hashgreen": {
+                "price": "8.01999999999999957367436",
+                "marketcap": 10530.26
+            },
+            "website_url": "https://www.zomb.studio",
+            "twitter_url": "https://twitter.com/Zomb_Studio",
+            "discord_url": "https://discord.gg/ymcwC8e3sf",
+            "category": "Meme"
+        },
+        {
+            "hash": "bb1de510a86d52a950b56158d1125cda66638221d1335d7d1dd2fcc2ad5cdb2b",
+            "name": "Inverse NGDP Coin",
+            "code": "INGDP",
+            "description": "Pegged to the $2 minus the value of the NGDPLT coin. Dollar value should rise at approximately 5% per year minus the growth of US Nominal GDP.",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/a7fa4b68-0e23-4944-ab93-40b739365d31.png",
+            "supply": null,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": null,
+            "twitter_url": null,
+            "discord_url": null,
+            "category": "Stablecoin"
+        },
+        {
+            "hash": "0389988a8c640c8e0006d0ad3d3055ecfb460d4c78fd9a917af8f3057e4043b0",
+            "name": "King of All Mojos",
+            "code": "KOAM",
+            "description": "Unique. One of the first truly non-fungible entities on the Chia blockchain. The full token is so blindingly awesome that only one one-thousandth of it can even ever exist in this mortal world.  Not a \"smart coin\" in the sense of having special functionality, but hey, you don't necessarily have to be smart to be King!",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/79bb66b5-4565-46bb-8975-e27a589753ac.jpeg",
+            "supply": null,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": "http://stellacoin.io/#953d7eff-a1c8-4db4-be2c-f82436c761c0",
+            "twitter_url": null,
+            "discord_url": null,
+            "category": "Platform"
+        },
+        {
+            "hash": "40a109b6c8839b9b2358b431ff47778168340bf7639b1eda12ec0e4a7fbbccd6",
+            "name": "BEE",
+            "code": "BEE",
+            "description": "This is a MEME token with the real goal of multiplying the bee population. You just have to have it. We will use the proceeds from the sale to buy land and build beehives on it. We hope the Token Holders get real honey on the front door from the bees they helped give birth to. Soon we will mint 250 NFT and they will be airdropped randomly to BEE holders.",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/49947271-54ed-4a0b-a444-155ba18ea6b6.jpeg",
+            "supply": 11199426.027,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": "https://createvirtualworld.com/bee/",
+            "twitter_url": null,
+            "discord_url": "https://discord.gg/XvJSdXMGYq",
+            "category": "Meme"
+        },
+        {
+            "hash": "e24c4b3741140224ba0ddf7bac58c69cdf347e657bf805c97405ede16fc689c4",
+            "name": "Green App Development",
+            "code": "GADBAD",
+            "description": "",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/0ef5b12b-5000-4fb9-a86a-52bfd3652fe2.png",
+            "supply": null,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": "http://green-app.io/",
+            "twitter_url": "https://twitter.com/greenapp_io",
+            "discord_url": "https://discord.gg/cHefNVK2D4",
+            "category": "Meme"
+        },
+        {
+            "hash": "660bb2ab6c885276fd6bfdd7c54c038b4cc08b324f20137635bd482fa7c414e2",
+            "name": "Chia in China",
+            "code": "XCHINA",
+            "description": "Chia Community Builder in China.  Free myself in Web 3 world!",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/c564ab1b-f8bc-4239-b703-7bbd3364c8a0.png",
+            "supply": null,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": "https://www.hemadao.com",
+            "twitter_url": "https://twitter.com/Chiainchina_",
+            "discord_url": "https://discord.gg/CE9WkRWJXr",
+            "category": "Meme"
+        },
+        {
+            "hash": "fda5aa3b13fa50288101c68f67a7cb3a92949ee0eecab122d1e980e74c5bd99b",
+            "name": "KitCat 2.0",
+            "code": "KITCAT",
+            "description": "KitCat ($KitCat) - 50 tokens. 1 token is equal to 1 NFT. Have the highest value.\r\nLimit offer.",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/84d7582d-1294-48ea-8b23-8fd4ce64266a.png",
+            "supply": null,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": "https://need4token.com/",
+            "twitter_url": "https://twitter.com/WNFToken",
+            "discord_url": "https://discord.gg/8cVTPGsbYR",
+            "category": "Wrapped Crypto"
+        },
+        {
+            "hash": "29320e8cfbc13684e9f5471b65e7d99684b369c91bbadb11b0a56c20f76917c5",
+            "name": "Zomb",
+            "code": "ZOMB",
+            "description": "We are a community engaged project of Zombie and Horror Graphic Art NFT enthusiasts, utilizing the ZOMB Chia Asset Token (CAT2) to generate interest in our community and NFT artists.",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/8d99d198-38c1-485f-ac1c-ccc2d70efcdb.png",
+            "supply": null,
+            "hashgreen": {
+                "price": "0.00001520000000000000016",
+                "marketcap": 1520
+            },
+            "website_url": "https://www.zomb.studio",
+            "twitter_url": "https://twitter.com/Zomb_Studio",
+            "discord_url": "https://discord.gg/ymcwC8e3sf",
+            "category": "Meme"
+        },
+        {
+            "hash": "aa3038a70653b03929fa9af938124e04954a1e10ec1d924f968e94dd6b215987",
+            "name": "BRICKs",
+            "code": "BRICK",
+            "description": "Artist, tech enthusiast and cultist of the DefCon badge - chialisp \r\n\r\nIntroducing 'BRICK' token for my procedural generated structures of BRICKs. This issuance is limited to 999 CATs where every unit can be swapped with its correlating NFT in the BRICKs collection.\r\n\r\n",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/beeed1ab-7e23-4b94-a908-c329d6005c08.png",
+            "supply": null,
+            "hashgreen": {
+                "price": "20.8399999999999998578914",
+                "marketcap": 20819.16
+            },
+            "website_url": "http://bricks.wiki",
+            "twitter_url": "https://twitter.com/chialisp",
+            "discord_url": null,
+            "category": "Wrapped Crypto"
+        },
+        {
+            "hash": "7f1d8b3e64ee227c906001edf9a4dfa6921975b9adbbb38aee2062137c345a44",
+            "name": "Retrograde Token",
+            "code": "RETR2",
+            "description": "",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/66ad258c-553c-425a-bae9-dbdfb9b4ad12.png",
+            "supply": null,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": "https://tinytardigrades.club/tiny-tardigrade-collection",
+            "twitter_url": "https://twitter.com/ClubTardigrades",
+            "discord_url": "https://discord.gg/ha58kqRrT7",
+            "category": "Meme"
+        },
+        {
+            "hash": "e92e2286ee53d75edcd75dae610f9cf0cd4b090a4e48afb0f3bdf564136bef61",
+            "name": "Magogo",
+            "code": "MAGO",
+            "description": "Chia token",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/6ccb37d6-8a25-4ccb-90d3-4060df54abb2.jpeg",
+            "supply": null,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": "https://omgopo.io",
+            "twitter_url": "https://twitter.com/OMGopo",
+            "discord_url": "https://discord.gg/k6WY77spfC",
+            "category": "Gaming"
+        },
+        {
+            "hash": "061cc6609d58b443abc4a34f0b77b3fb95215b37024128e39838335c21c226d4",
+            "name": "APULIA WINE",
+            "code": "WINE",
+            "description": "GRAPES MAKE WINE",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/633d42dd-d14e-49db-aee1-4b8d0fa36905.jpeg",
+            "supply": 20,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": null,
+            "twitter_url": "https://twitter.com/ApuliaGrapes",
+            "discord_url": null,
+            "category": "Meme"
+        },
+        {
+            "hash": "c4cc539242b40f79d068f9c703267933870e28c29939162ea488f825b7c52605",
+            "name": "WuKong DAO",
+            "code": "WK",
+            "description": "",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/8c1f511b-07c0-4be2-80f9-a4f0d6deead4.jpeg",
+            "supply": null,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": "https://twitter.com/Chia_WuKong",
+            "twitter_url": "https://twitter.com/Chia_WuKong",
+            "discord_url": null,
+            "category": "Meme"
+        },
+        {
+            "hash": "d92268a1df8aa91aa410fcfaaa57583562bdfe9bacb458453f3518c4a3256124",
+            "name": "CheeZe for SpaceRatZNFT ",
+            "code": "CHEEZE",
+            "description": "CheeZe - utility token which can be used for Galaxy Dealer Market @ SpaceRatZNFT",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/0466a7f4-7fc3-4cbb-9059-97a92260feec.png",
+            "supply": null,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": "https://spaceratznft.xyz/",
+            "twitter_url": "https://twitter.com/SpaceRatZNFT",
+            "discord_url": "https://discord.com/invite/qckqVMcsyM",
+            "category": "Wrapped Crypto"
+        },
+        {
+            "hash": "5fd27391e6385e5d4bdc5b7b2df67b2e8698e337d49b94302a3551deda565e58",
+            "name": "Proof Of Treasure Coin",
+            "code": "POTT",
+            "description": "Proof of Treasure Coin (POTT) is the reward coin for proofoftreasure.com; a game where you can win real crypto treasure by guessing the location of the in-game image. We believe POTT is the first CAT (Chia Asset Token) that has a verifiably limited issuance schedule. The amount of POTT that can ever be created per month will steadily decrease over time, with several halvings hard-coded into the coin.",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/b9e2703e-e8fe-4919-8199-dc283566c59a.png",
+            "supply": null,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": "www.proofoftreasure.com",
+            "twitter_url": "https://twitter.com/ProofOfTreasure",
+            "discord_url": null,
+            "category": "Gaming"
+        },
+        {
+            "hash": "91a48b56d7d4e11e9419b1e2c06859f3f6d9ad4a8408c820a10b2da173abb59d",
+            "name": "Terran Imperial Credit",
+            "code": "TIC",
+            "description": "Primarily used to facilitate bribes, dirty deals, and assassinations in the mirror universe.  These coins are exceptionally rare.  Smuggling them across the mirror universe barrier is near impossible.  If you happen to have one of these coins, count yourself extraordinarily lucky. Even our highest-level members have struggled to get their hands on one and would pay nearly any price to acquire it.",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/e371a054-888f-404b-bc4c-ba57bd968e82.gif",
+            "supply": null,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": null,
+            "twitter_url": null,
+            "discord_url": null,
+            "category": "Meme"
+        },
+        {
+            "hash": "730a00819224b961ae0fb9a639a93e5d668a4d66dca40d6b3671b694169764ea",
+            "name": "THANK YOU",
+            "code": "TY",
+            "description": "If you would like to thank somebody for something, just send him or her few THANK YOU tokens. The token was created as one of the first CAT2 tokens.",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/7213bd6b-233c-4bc9-b88b-6fa703d5902c.png",
+            "supply": 137235.35499999998,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": null,
+            "twitter_url": "https://twitter.com/DrakoPensulo",
+            "discord_url": "https://discord.gg/sqyyCNvG9s",
+            "category": "Event"
+        },
+        {
+            "hash": "fab2f11b14c3bdfa549508494921c6518595ed0425f0a308eb40072ccd92eb9a",
+            "name": "Board Game Crypto NFT",
+            "code": "BGCN",
+            "description": "Token that will be exchangeable for 1 NFT at the end of phase 1 of the game.",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/714b20b1-b83f-444f-aedf-4acc13b00aee.png",
+            "supply": null,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": "http://www.boardgamecrypto.com",
+            "twitter_url": "https://twitter.com/BoardGameCrypto",
+            "discord_url": null,
+            "category": "Gaming"
+        },
+        {
+            "hash": "f0f37727263e1715f83b37538cf95ba78eec458297bb80dc7bbe2cd2c508fed7",
+            "name": "PNK",
+            "code": "PNK",
+            "description": "PNK",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/34d6be0e-580c-47c0-a139-1a2f1792d965.png",
+            "supply": null,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": "https://google.com",
+            "twitter_url": "https://twitter.com/google",
+            "discord_url": null,
+            "category": "Meme"
+        },
+        {
+            "hash": "1d217ac00ed606fa0c03d03ae54dfb9cfce40222e0056dcc2dd6c78f8f6d2210",
+            "name": "Happy Fresh",
+            "code": "HPF",
+            "description": "Happy Fresh Token is a token that you can spend to buy aquatic products at HappyFresh storefront in Taipei, Taiwan.",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/d4cbf4bb-d383-494a-8a3e-9ee5febd0462.jpeg",
+            "supply": null,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": "https://www.happyfresh.com.tw/",
+            "twitter_url": null,
+            "discord_url": null,
+            "category": "Event"
+        },
+        {
+            "hash": "3f346cc3122ff1634b812f43bd122fcf0d532496df16f1edacc1d0b338a55c88",
+            "name": "OMGopo",
+            "code": "GOP",
+            "description": "OMGopo Token is the native token of the OMGopo NFT's collections.\r\n\r\nWe have decided to unite with our fellow chia farmers and xch believers.\r\nAn ever evolving NFT project aimed towards the metaverses of the future.\r\n\r\nEach holder of 1 $GOP will be able to claim its correlating NFT.",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/4f6f63f3-93a2-4e24-9c8d-9799ee5cd2be.png",
+            "supply": 100000000,
+            "hashgreen": {
+                "price": "0.01600000000000000033307",
+                "marketcap": 1600000
+            },
+            "website_url": "https://omgopo.io",
+            "twitter_url": "https://twitter.com/OMGopo",
+            "discord_url": "https://omgopo.io/discord",
+            "category": "Meme"
+        },
+        {
+            "hash": "ce3e3a641461be16571944ac597a179fa0ed75fbd0ed48ec1e45cdc8eb0943d7",
+            "name": "Million Minus 8",
+            "code": "XMM8",
+            "description": "A fun challenge token for games in the Lucky8 ecosystem.",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/6c34f83c-4e51-4304-b871-ed5034b052d6.png",
+            "supply": null,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": null,
+            "twitter_url": "https://twitter.com/Lucky8Token",
+            "discord_url": "https://discord.gg/jF9VefR6gV",
+            "category": "Meme"
+        },
+        {
+            "hash": "0b3dc46f825f7d0ce0f47879e6d39312a95da956e61446317ce5fe5af564442e",
+            "name": "FCB Fan Token",
+            "code": "FCBT",
+            "description": "Unofficial FCB Token. This token is just for fun and for FCB fans.\r\nIn the future, FCBT can be staked to earn NFT rewards.\r\nGrab them via airdrops, winning competitions, staking, purchasing or from being donated.\r\nFollow us in Twitter to receive your tokens.",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/3ed4e951-c55a-4aba-9fbb-6eebd52d1300.png",
+            "supply": null,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": "https://twitter.com/ClubsChiaToken",
+            "twitter_url": "https://twitter.com/ClubsChiaToken",
+            "discord_url": null,
+            "category": "Meme"
+        },
+        {
+            "hash": "50ff267b6710475da8a4744879401cb111b20242803a8a6c69a0fed70c2feb50",
+            "name": "Omega Molecule",
+            "code": "OMEGA",
+            "description": "A very rare molecule which is also known to the Borg as Particle 010.  It is rumored to be unfathomably powerful, and even a single molecule has enough energy to rupture a hole in subspace.",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/a9128989-d4b7-4056-93ac-c1cb8c46017e.png",
+            "supply": null,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": null,
+            "twitter_url": null,
+            "discord_url": null,
+            "category": "Meme"
+        },
+        {
+            "hash": "0e01b1418f5b8e1c8a636ad625793803088ca1ec62a3e8d883abce05eb0101a5",
+            "name": "Billybug Bounty ",
+            "code": "BUG",
+            "description": "Kill a bug,\r\nGet a hug.",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/0365964e-749d-4375-9b85-e4a50f7acdee.png",
+            "supply": null,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": "https://onlybillys.com",
+            "twitter_url": null,
+            "discord_url": null,
+            "category": "Meme"
+        },
+        {
+            "hash": "98be421bf2afd03bbaa71d7217216837790a9ea7a710f0b684cc9a4cc9f6f153",
+            "name": "Transporter Credits",
+            "code": "TRPC",
+            "description": "A unit of exchange that allowed for use of transporters at Starfleet Academy.  Now defunct, these coins have become highly collectible. Heavily nostalgic for academy graduates, bids have continued to rise at public auction.  No high-end collection is complete without one.  Check the Collector's Guild ledger before they are gone!",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/3aa05c0d-577d-426f-b956-f9d1edb4124d.gif",
+            "supply": null,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": null,
+            "twitter_url": null,
+            "discord_url": null,
+            "category": "Meme"
+        },
+        {
+            "hash": "55abdafc7a03ab78188f9da33e377a99b414b274805027752ed6c8fc05cb17a0",
+            "name": "Ukraine Fundraiser",
+            "code": "UAFR",
+            "description": "Special limited edition contribution token to promote our fundraiser for Ukrainian families and children.",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/500877b4-aeb1-41c7-892f-6664ac75013d.png",
+            "supply": null,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": "https://pronovitate.org/en/tokens/uafr/",
+            "twitter_url": "https://twitter.com/pronovitate",
+            "discord_url": "https://discord.gg/C2R4e3cvja",
+            "category": "Event"
+        },
+        {
+            "hash": "46664f9b76f388065d6c523d09797d4568b6c4cb91f3685560a795af4dfaf87c",
+            "name": "HOOVE Coin classic",
+            "code": "HOOVEC",
+            "description": "   ",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/167611fd-154a-4f72-a58e-228a9d1f01f7.webp",
+            "supply": 710000,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": "https://www.hoovedao.xyz/",
+            "twitter_url": "https://twitter.com/hooveDAO",
+            "discord_url": "https://discord.gg/znzZS4ueru",
+            "category": "Platform"
+        },
+        {
+            "hash": "443005e9430528b29586bc0164f2b4159b588c22f99bb029abe7e685de985035",
+            "name": "Poor Man's Chia Farm 500",
+            "code": "POR5",
+            "description": "This is a re-issuance as CAT2 of this token on 28/7/22. The CAT1 was originally minted on 25/04/2022 to celebrate reaching over 500 followers. Slightly customised containing a thank you message that has no affect on execution. This coin was available and to all my followers as of 25/04/2022 (which is 553) 560 (560000 mojos) coins have been minted. This coin will be redeemable in the future. so watch this space.",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/e623b944-cbdf-4dd7-b2b1-da057b0622a3.png",
+            "supply": null,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": null,
+            "twitter_url": "https://twitter.com/PoorChiaFarmXCH",
+            "discord_url": null,
+            "category": "Event"
+        },
+        {
+            "hash": "8e97db7777b127a6a13b7ecb33206fd99d82fb59cb4fc456df93633ce00da4ec",
+            "name": "Valentine Gold",
+            "code": "VALG",
+            "description": "Valentine Gold:\r\n\r\nThese tokens are golden and they should be used for golden times. You want to give your loved one a token for a dinner? Or you want to have a date with someone? Show them by giving them some special tokens. Same as with the Valentine's tokens you can \"price\" them higher for special occasions: dinner 100 tokens, date night 200 tokens. It is totally up to you!\r\n",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/b90258cf-ce44-4180-8a8c-43d04d4d5806.png",
+            "supply": null,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": "https://valentine.tk",
+            "twitter_url": "https://twitter.com/ValentineTokens",
+            "discord_url": "https://discord.gg/mR7HKSrVS9",
+            "category": "Event"
+        },
+        {
+            "hash": "eb461b8af32975adbdf426d22e77e41547a7081a28663da61fd07fae2933c393",
+            "name": "GRAND THEFT HARDDRIVE",
+            "code": "GTH",
+            "description": "In order to plan the biggest Heist ever perpetrated in the world of PoST, XCH farmers will setup an unexpected new commercial venture as a front, a bankrupt hosting business property shrouding the nerve center within where Heist operations are staged and rehearsed. While the business runs above, down below you can practice making plots or finding deals on hard drives, 3d printing new farming racks, and owners of existing farms can add a Master Plotting Terminal to handle all current operations.",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/af95d235-2865-47c4-be3a-9137b927dcad.png",
+            "supply": null,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": "http://chiachomper.com",
+            "twitter_url": "https://www.reddit.com/r/chia/comments/s5cwsq/new_download_content_coming_soon/",
+            "discord_url": "THE BIGGEST HARD DRIVE HEIST EVER PERPETRATED ON MANKIND",
+            "category": "Meme"
+        },
+        {
+            "hash": "449671152ed6a613cd1b91bc030b3aba54c376591e2acfad2071c9fd1cbd33a2",
+            "name": "TTERR",
+            "code": "GGDBB",
+            "description": "ghghgh",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/01e67ca5-d1e8-4a00-afe0-91be74bf3fb5.jpeg",
+            "supply": null,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": "https://omgopo.io",
+            "twitter_url": "https://twitter.com/OMGopo",
+            "discord_url": "https://discord.gg/k6WY77spfC",
+            "category": "Gaming"
+        },
+        {
+            "hash": "1dadf5b097d2e1257d375759aaa15298ed3e0f70b6de275d9c70dc2f7eca14a8",
+            "name": "MIO",
+            "code": "MIO",
+            "description": "Marmots.io is an online browser game in which you compete with other players for the opportunity to collect the $MIO cryptocurrency. Therefore, Marmots.io allows you to keep a sense of progress and value that you can control and compare, unlike other .io games which forget your progress after you finished. We are developing a relaxing and entertaining game and want to support the adoption of Chia.",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/da429882-8e7a-4604-ab3e-9c87ec41c616.png",
+            "supply": null,
+            "hashgreen": {
+                "price": "0.00012799999999999999421",
+                "marketcap": null
+            },
+            "website_url": "https://marmots.io",
+            "twitter_url": "https://twitter.com/Marmots_io",
+            "discord_url": "https://discord.com/invite/5UcQhGyrzQ",
+            "category": "Gaming"
+        },
+        {
+            "hash": "1db8e4e1d9c7493b880df398444f8c6d4bd976e6de3c1f74181dd071a9e2d498",
+            "name": "Cassandre Fairies Club",
+            "code": "CF3",
+            "description": "8 out of 16432 Total.\r\nBecome an exclusive CFC Board Member and take part in all of the club's major decisions.\r\nRoyalties to your own wallet. ",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/19ca8ed0-3442-4c3a-a665-51599d813bd7.png",
+            "supply": null,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": "https://www.cassandre-fairies-club.com",
+            "twitter_url": "https://twitter.com/CassFairiesClub",
+            "discord_url": null,
+            "category": "Event"
+        },
+        {
+            "hash": "5391cc933ee1b2d56483b90f4db82f78ef26d7b8f1aeedb14af11eb28e919d1b",
+            "name": "Gaerax Custom Characters",
+            "code": "GCC",
+            "description": "Redeemable for 1 custom 3D character NFT made by Gaerax",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/301a1236-8e6c-4f1c-bc3b-08ec8b479f16.png",
+            "supply": null,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": null,
+            "twitter_url": "https://twitter.com/Gaeraxx",
+            "discord_url": "https://discord.gg/3C8cgfS6e9",
+            "category": "Gaming"
+        },
+        {
+            "hash": "5de2b461a7257e1451bf1c331cbfc55945c39e02b2e540f05e596963c410003d",
+            "name": "Tiny Tardigrade Token",
+            "code": "TTT2",
+            "description": "",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/8f655991-5b0b-4347-87e2-101d0acfd7e0.png",
+            "supply": 7742489,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": "https://tinytardigrades.club/",
+            "twitter_url": "https://twitter.com/ClubTardigrades",
+            "discord_url": "https://discord.gg/ha58kqRrT7",
+            "category": "Meme"
+        },
+        {
+            "hash": "2135d12899cffd0085c49e1c1eb5296e35565bf66cfda1ef2df8d6a7ea08f4aa",
+            "name": "Slip of GP Latinum",
+            "code": "SGPL",
+            "description": "The smallest denomination of the most valued currency in the Alpha quadrant, Gold Pressed Latinum!",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/57372372-8605-4dbd-99a8-ae010907e77f.png",
+            "supply": null,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": "https://memory-alpha.fandom.com/wiki/Ferengi_Alliance",
+            "twitter_url": null,
+            "discord_url": null,
+            "category": "Meme"
+        },
+        {
+            "hash": "64d1e7e794464053858763f2082eb595ed4416976bed72ca679a553839ff189c",
+            "name": "StellaCoin",
+            "code": "STDG",
+            "description": "The Bulldogs are #1, and Stella is #1 among bulldogs. Though a Georgia fan, she lives on Beacon Hill in Boston and intends to be at the top of the hill of dog coins and CAT coins. ",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/63ae852c-d9eb-4398-a57b-2f0cc274be55.jpeg",
+            "supply": null,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": "http://stellacoin.io/",
+            "twitter_url": "https://twitter.com/StellaDogCAT",
+            "discord_url": null,
+            "category": "Meme"
+        },
+        {
+            "hash": "ec25b77bc54df637392d6a0f542de65f45020405d0f36ced723bff2870c378b1",
+            "name": "MoJo•JoJo",
+            "code": "MJO",
+            "description": "MoJo•JoJo Chia CAT Token! Search for MJO faucet token! Only 1.000.000 MJO's will exist.",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/dd61d2d9-d52b-4084-893e-c19cf1935210.png",
+            "supply": null,
+            "hashgreen": {
+                "price": "16.0300000000000011368683",
+                "marketcap": 16030000.000000002
+            },
+            "website_url": "https://faucet.directorylib.com",
+            "twitter_url": "https://twitter.com/FaucetMojoJojo",
+            "discord_url": "https://discord.gg/7DqruD6egQ",
+            "category": "Meme"
+        },
+        {
+            "hash": "ee6ad2b7b8643d7fe944f2d94f8a14d07e94c072b75c7b74c0ca5d0a9c2c1c94",
+            "name": "Need For Token 2.0",
+            "code": "NFT",
+            "description": "Need For Token ! NFT token for chia blockchain",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/9675d40c-b19f-4030-9971-74efbac003f0.gif",
+            "supply": null,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": "https://need4token.com/",
+            "twitter_url": "https://twitter.com/WNFToken",
+            "discord_url": "https://discord.gg/8cVTPGsbYR",
+            "category": "Wrapped Crypto"
+        },
+        {
+            "hash": "593c68c3f0c2061ea384ff30d9f3bef15039c6d5fbd46b555c73b2e9b490fca5",
+            "name": "Abandoned Land - Tool",
+            "code": "ALTOOL",
+            "description": "Tools to help with gathering in Abandoned Land",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/3f3d07be-2c5d-43c5-a4a9-8506f00805df.png",
+            "supply": 400579000,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": "https://abandoned.land",
+            "twitter_url": "https://twitter.com/MayorAbandoned",
+            "discord_url": "https://discord.gg/eyr56jNxym",
+            "category": "Gaming"
+        },
+        {
+            "hash": "bd960d5a150ed1b4f2242fc5761097b017b530d19dc2943f5e1907a6be1a0d09",
+            "name": "Cassandre Fairies Club",
+            "code": "CF2",
+            "description": "640 out of 16432 total\r\nBeautiful Bicolor Fairies.\r\nEven the Villain ones are not that bad, royalties to a different charity fund each month.",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/b6ed9c1e-c288-476c-86bd-e705e5ad54f8.png",
+            "supply": null,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": "https://www.cassandre-fairies-club.com/",
+            "twitter_url": "https://twitter.com/CassFairiesClub",
+            "discord_url": null,
+            "category": "Education"
+        },
+        {
+            "hash": "97bd6d179cedfff84f4a0e82982765dfeab0eec7c1cef7ead0b5f23360de7a63",
+            "name": "US NGDP Coin",
+            "code": "NGDPLT",
+            "description": "Pegged to US GDP, minus 5% per year, anchored to $1 in 2007Q4. Represents what the dollar would be worth, in terms of goods and services, if the Fed had successfully pursued an NGDP Level Path Target with 5% growth and RGDP had followed its actual path.",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/ac2dd1f3-3ff1-4c44-ba8e-81e1753af3b8.png",
+            "supply": null,
+            "hashgreen": {
+                "price": "0.83399999999999996358468",
+                "marketcap": 12272358.372
+            },
+            "website_url": "http://stellacoin.io/#6f8c9a20-88f5-45c8-9cac-7f22ef31fc39",
+            "twitter_url": "https://twitter.com/AndyHarless",
+            "discord_url": null,
+            "category": "Stablecoin"
+        },
+        {
+            "hash": "895d30090a17116d282af37cedec585613d4ee0faec3eaa7e19eb3f2bcd236e1",
+            "name": "Taichia DAO",
+            "code": "TICA",
+            "description": "",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/cefe58fe-db92-42a3-9057-c2862c54e0f8.png",
+            "supply": null,
+            "hashgreen": {
+                "price": "0.01600000000000000033307",
+                "marketcap": 11200000
+            },
+            "website_url": "https://www.taichiadao.com",
+            "twitter_url": null,
+            "discord_url": "https://discord.gg/jSxR7DBcjW",
+            "category": "Meme"
+        },
+        {
+            "hash": "b866c8075501879ec421062f065467092d20cbbd8cb4b0d3fccba220a16f0656",
+            "name": "Hero 2.0",
+            "code": "HERO",
+            "description": "HERO - Token Hero\r\nHERO NFT",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/0907a89d-8589-41e9-b3c7-7759e39e3445.jpeg",
+            "supply": null,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": "https://need4token.com/",
+            "twitter_url": "https://twitter.com/WNFToken",
+            "discord_url": "https://discord.gg/TrqmPt4wwA",
+            "category": "Gaming"
+        },
+        {
+            "hash": "6daab7bb79093ef60f3b83dc3d9def25e91eae55916da8bf95268eda9ee871ea",
+            "name": "Abandoned Land - Wood",
+            "code": "ALWOOD",
+            "description": "Abandoned Land Wood",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/b5cd7024-c7b1-4110-beea-e97317d42be9.png",
+            "supply": null,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": "https://abandoned.land",
+            "twitter_url": "https://twitter.com/MayorAbandoned",
+            "discord_url": "https://discord.gg/eyr56jNxym",
+            "category": "Gaming"
+        },
+        {
+            "hash": "a48574f6ea4245c5e4a208576cc6b10b14a86d2b46618894fdf210c9d5bec950",
+            "name": "Replicator Rations",
+            "code": "RPRT",
+            "description": "Replicator Rations were issued aboard the USS Voyager during their travels in the Delta Quadrant.  When Voyager arrived back to Earth in 2378, many rations were found on board the ship during retrofitting.  These rare collectibles were smuggled out of the San Francisco Fleet Yards and are now in the hands of collectors.  A true memento of one of the most famous crews in all of Starfleet.",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/43eabef3-73dd-4c2a-a691-e241baf1b265.gif",
+            "supply": null,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": null,
+            "twitter_url": null,
+            "discord_url": null,
+            "category": "Meme"
+        },
+        {
+            "hash": "86290de455ae081dfe44c099743cb8eae18c705f461922280d138c24ac8c3110",
+            "name": "Catmosphere",
+            "code": "CATMOS",
+            "description": "CATMOS represents experience points in the Catmosphere. Team up, trade rare CATS for CATMOS, battle monsters (and other players) using your CATMOS and receive rare NFTs that will help you and your friends in battle! Visit us at catmos.io",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/a4ecfacd-eaf5-4195-9fd4-07e27eb4a51e.png",
+            "supply": null,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": "https://catmos.io",
+            "twitter_url": "https://twitter.com/CatmosCoin",
+            "discord_url": "https://discord.gg/r7j2XPZJYU",
+            "category": "Gaming"
+        },
+        {
+            "hash": "a1001eb23ea19fd18a6294d949aeee78e622b7bc3f92e29596a268ec0c38f9c0",
+            "name": "Genesis, Inc.",
+            "code": "GENINC",
+            "description": "Genesis, Inc. is the first self-published book that is only available via Chia Offer Files. One token grants user ability to read the final book on the Catmosphere website as well as previews of chapters as they are written. Only 1000 minted. Can be traded or sold after finished reading. Preview here: https://twitter.com/endertown/status/1485351549203513346",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/8efc9ea2-d136-4617-80f4-df835df1929e.jpeg",
+            "supply": null,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": "https://twitter.com/endertown/status/1485351549203513346",
+            "twitter_url": "https://twitter.com/CatmosCoin",
+            "discord_url": "https://discord.com/invite/r7j2XPZJYU",
+            "category": "Gaming"
+        },
+        {
+            "hash": "ec70426aebe423192cf8d2b90d11f776785b62e351a1e743da6ec8b2e11e86c8",
+            "name": "Ciger Coin",
+            "code": "CGC",
+            "description": "Ciger Coin",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/5a6f7b75-6a26-40ae-bf64-fd3b75de4fe1.png",
+            "supply": null,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": "https://keybase.io/team/ciger_official",
+            "twitter_url": "https://twitter.com/ciger_official",
+            "discord_url": "https://discord.gg/AsxFDteY",
+            "category": "Platform"
+        },
+        {
+            "hash": "94621bf6d74f26866812a69b9bc7cb2b25507b9f5717ebd768c1ec0ac63796aa",
+            "name": "Felix",
+            "code": "FELIX",
+            "description": "Felix was feeling left out. After all he is a cat. He is now waiting for a problem to fix with his bag of tricks.",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/60a5f20a-04c3-41a6-a086-0d4ba331fa3f.png",
+            "supply": null,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": null,
+            "twitter_url": null,
+            "discord_url": "https://discord.gg/kPdGewqBJC",
+            "category": "Meme"
+        },
+        {
+            "hash": "51ef89a35fa316c0f2747696b2483c9203da3155b603ea3f194640ada374907f",
+            "name": "farmingDCH",
+            "code": "DCH",
+            "description": "To contribute to Chia's ecology, the DCH mine has steadily increased farming equipment, and put the mine block reward 0.25XCH into the market to give back to the majority of DCH holders.",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/2562b8d5-2a24-455a-8a9e-859d85ed4b25.jpeg",
+            "supply": null,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": "https://github.com/farmingDCH/miningDCH",
+            "twitter_url": "https://twitter.com/farmingDCH2",
+            "discord_url": "https://discord.com/invite/4C7WKvA8Tg",
+            "category": "Platform"
+        },
+        {
+            "hash": "dfb730b31aad9f0b00dd813bcf838579c29ecd9ba76c85ac53940335366c03ac",
+            "name": "Valentine Platinum",
+            "code": "VALP",
+            "description": "Valentine Platinum:\r\n\r\nWant to give your Significant Other something special to show them they are the one? Now you can. These tokens will only get distributed in pairs of 2. One for you and one for the person you love!",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/b1dae690-d420-49cb-84d9-1b5bc36532a3.png",
+            "supply": null,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": "https://valentine.tk",
+            "twitter_url": "https://twitter.com/ValentineTokens",
+            "discord_url": "https://discord.gg/mR7HKSrVS9",
+            "category": "Event"
+        },
+        {
+            "hash": "3c75c138fe2fc94c0bae3467e7ae5a457758cb058925424ec2eb327f6b231a18",
+            "name": "Abandoned Land - Weapon",
+            "code": "ALWEAP",
+            "description": "For protecting yourself against the unknown.",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/995f95cd-7945-41cb-a73a-4a597e5382bd.png",
+            "supply": 400579000,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": "https://abandoned.land",
+            "twitter_url": "https://twitter.com/MayorAbandoned",
+            "discord_url": "https://discord.gg/eyr56jNxym",
+            "category": "Gaming"
+        },
+        {
+            "hash": "824c71e37ac660006e03f7884561e7a124d930460ae1506a9c234c06ebc6aa1d",
+            "name": "AIR",
+            "code": "AIR",
+            "description": "AIR is An Inflatable Reality meme coin 💨",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/7d95b1ee-a802-4c0b-9080-0ac5d9932694.png",
+            "supply": 200000000,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": "https://www.orcnation.com/",
+            "twitter_url": "https://www.twitter.com/benatreidesving",
+            "discord_url": null,
+            "category": "Meme"
+        },
+        {
+            "hash": "054e8c7e593d0e7bab9ec83daa50a3b099e366097d445a0f125eb800c0370e44",
+            "name": "Brick of GP Latinum",
+            "code": "BGPL",
+            "description": "A Brick of Gold Pressed Latinum is the most prized currency across the entire Alpha quadrant!",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/e555d6e3-d3e5-43ca-9590-e0152ba4e192.png",
+            "supply": null,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": "https://memory-alpha.fandom.com/wiki/Ferengi_Alliance",
+            "twitter_url": null,
+            "discord_url": null,
+            "category": "Meme"
+        },
+        {
+            "hash": "b3867458a6af107794a09b6083e3f0f05fbece0adae328f4df9ade53a60ca1b3",
+            "name": "CAT1 Memorial Token",
+            "code": "C1MT",
+            "description": "",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/ed6a4b80-0596-4438-9e4c-ceb8e27fe496.png",
+            "supply": null,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": null,
+            "twitter_url": null,
+            "discord_url": null,
+            "category": "Meme"
+        },
+        {
+            "hash": "4c4380af7d15c896d9e6266f322ac494c398803032eef56f2ab65877956d007f",
+            "name": "Namesdao NAME",
+            "code": "NAME",
+            "description": "Namesdao .xch Name Service",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/2117a137-d3ec-4de2-9ae9-141d1d0b4795.png",
+            "supply": 200000000,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": "https://www.namesdao.org/",
+            "twitter_url": "https://www.twitter.com/thenamesdao",
+            "discord_url": "https://discord.com/invite/auCvkTCtYx",
+            "category": "Platform"
+        },
+        {
+            "hash": "f9529c59c0cfba364671c927a60a23c3cab9dc5e2b1488ba0c7b858e99a8ae2a",
+            "name": "KATS 2.0",
+            "code": "KATS",
+            "description": "These are 10 teams of 10 characters, who are united by one thing - they are KATS. Each team is unique and unusual in its own way. The total number of NFT tokens is 100. WNFT will expand and KATS teams will take their rightful place in it.",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/54d7d451-4575-4b76-a841-f22682dcb0cf.jpeg",
+            "supply": null,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": "https://need4token.com/",
+            "twitter_url": "https://twitter.com/WNFToken",
+            "discord_url": "https://discord.gg/8cVTPGsbYR",
+            "category": "Meme"
+        },
+        {
+            "hash": "c65dceecf197da46fa92edd71d22b4bbbe27e52b86bdb3fc67e635aa75a7484e",
+            "name": "bobo coin",
+            "code": "BOBO",
+            "description": "bobo to the saturn",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/0dabed49-4852-41e8-8dcb-d3660ce0f6a9.png",
+            "supply": 40000000,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": null,
+            "twitter_url": "https://twitter.com/bobosaturn",
+            "discord_url": null,
+            "category": "Platform"
+        },
+        {
+            "hash": "0bf20840681f1b1d71e54cf49f0cd5269f4cc405b347409d5e2e325a226c8804",
+            "name": "CoinTail",
+            "code": "TAIL",
+            "description": "Tail",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/f69b3345-c589-4d55-84c7-a069bc545e89.png",
+            "supply": null,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": "https://www.taildatabase.com/tail/0bf20840681f1b1d71e54cf49f0cd5269f4cc405b347409d5e2e325a226c8804",
+            "twitter_url": "https://twitter.com/NftpixelT",
+            "discord_url": null,
+            "category": "Gaming"
+        },
+        {
+            "hash": "91b049f4d96ed30215c2548b0933fd382eaebe248ad3b25026e78017f6f63649",
+            "name": "Chialing",
+            "code": "XLNG",
+            "description": "These are the ONE token denomination of Chialing currency.  Visit the Chialing website or my Discord to learn more about them! The twitter link here is for Chialing NFT Certificates, for which these CATs can be redeemed...",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/dd51ca9c-f2c3-446f-b0bf-0d531f76ae31.png",
+            "supply": null,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": "https://bafybeifijcgk64pny3vdjjxhivcbdo3g2nm37notjz453zh5rq6y543ef4.ipfs.nftstorage.link/",
+            "twitter_url": "https://twitter.com/ChialingCerts",
+            "discord_url": "https://discord.gg/JbWRKZCpzk",
+            "category": "Meme"
+        },
+        {
+            "hash": "d5cfbfadf873554d5184ebcb9dee86e69f8b11f44a0cc4e417871c4f7fb17b9a",
+            "name": "UFC Genesis",
+            "code": "UFCG",
+            "description": "The Ultimate Farmers Club (UFC) is one of the first NFT projects built on the Chia blockchain. The genesis collection contains 250 uniquely hand drawn profile pictures of farm animals.",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/86b58642-7ae5-43b4-8efe-7425fe2a1fde.jpeg",
+            "supply": null,
+            "hashgreen": {
+                "price": "99386.0000000000000000000",
+                "marketcap": 99386
+            },
+            "website_url": "https://twitter.com/TheHonestFarm",
+            "twitter_url": "https://twitter.com/TheHonestFarm",
+            "discord_url": "https://discord.gg/NXGhGd4eFq",
+            "category": "Gaming"
+        },
+        {
+            "hash": "3857a99b531acdebca632c48111d811bafde58b093658efbf1a9d8e09521926d",
+            "name": "Help Ukraine NFT 2.0",
+            "code": "HELP",
+            "description": "To receive NFT, create an offer of at least 0.05 xch and send the offer to Discord in private messages\r\nhttps://discord.gg/FzTeCvZZg4\r\nAddress for donations: \r\nxch10j43mdukzvghtednyh0ehdr8gr0l7nlga9ws2y7jtxsy738kjljq70900r",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/1cb381e4-928e-43dc-81ad-c7e7ffc977aa.jpeg",
+            "supply": null,
+            "hashgreen": {
+                "price": "1.60000000000000008881784",
+                "marketcap": null
+            },
+            "website_url": "https://need4token.com/",
+            "twitter_url": "https://twitter.com/WNFToken",
+            "discord_url": "https://discord.gg/FzTeCvZZg4",
+            "category": "Event"
+        },
+        {
+            "hash": "1502c633aca69108171cba44e473cae15761f5fa7df8eb19d012a6362c4ba72e",
+            "name": "Wasteland Sprites",
+            "code": "SPRITE",
+            "description": "$Sprites are Items to add to Wasteland Guide NFT's. Supply 750",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/1fb18f7c-c220-4964-b765-8a123af900ce.png",
+            "supply": null,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": "https://twitter.com/xch_dog",
+            "twitter_url": "https://twitter.com/xch_dog",
+            "discord_url": "https://discord.gg/bACjK5XSBD",
+            "category": "Event"
+        },
+        {
+            "hash": "477285dc4f1f2f5ec42ed63ed1ce127cc56646614540fca86b8481f5b5084072",
+            "name": "CHE Fan Token",
+            "code": "CHET",
+            "description": "Unofficial CHE Token. This token is just for fun and for CHE fans.\r\nIn the future, CHET can be staked to earn NFT rewards.\r\nGrab them via airdrops, winning competitions, staking, purchasing or from being donated.\r\nFollow us in Twitter to receive your tokens.",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/80c034e6-a8ef-4df1-be1a-10952468e66c.png",
+            "supply": null,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": "https://twitter.com/ClubsChiaToken",
+            "twitter_url": "https://twitter.com/ClubsChiaToken",
+            "discord_url": null,
+            "category": "Meme"
+        },
+        {
+            "hash": "6651a352a4b9c0973faedf5f2e03ca187a0306b8402487d12c505b48881eeb97",
+            "name": "Spartixel Collection",
+            "code": "SPIXX",
+            "description": "",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/5e151d34-4cde-4abc-806f-77a839fc9361.png",
+            "supply": null,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": "https://twitter.com/xch_dog",
+            "twitter_url": "https://twitter.com/The_300_SPTN",
+            "discord_url": "https://discord.com/invite/MeJF2CzzFj",
+            "category": "Meme"
+        },
+        {
+            "hash": "946ebdd5828503a5239bbefdee10e3b933c92b48f84a0b4ba5c69a7007c402d5",
+            "name": "RADICOLA IQ CAPS",
+            "code": "RADIQ",
+            "description": "RADIQ is a rare CAP in the Wasteland. To valuable to use as currency, there has to be some use for this treasure! There are only 1000 Available.",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/d649fcc7-1f20-4054-902e-23cf677bfd00.jpeg",
+            "supply": null,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": "https://twitter.com/Mitchel36122648?s=09",
+            "twitter_url": "https://twitter.com/Mitchel36122648?s=09",
+            "discord_url": null,
+            "category": "Meme"
+        },
+        {
+            "hash": "1698907709fcf295b7771a27a5dff24fa9d817a8f70889a413ede07cd9eb8507",
+            "name": "Magickal Billys",
+            "code": "MGKB",
+            "description": "HOOOIOOOHNOOO IDID TOOMANNY TAILS OF A NWEWT!",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/5c2008c5-03d2-4938-b8cc-c53afa8ecdfb.png",
+            "supply": null,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": "https://onlybillys.com",
+            "twitter_url": null,
+            "discord_url": null,
+            "category": "Meme"
+        },
+        {
+            "hash": "36dcbca61c10913b454187cec3b98023562f225617af4d4e32c09e946ebe2a44",
+            "name": "Felix Red",
+            "code": "FLXR",
+            "description": "Limited edition of (1000) in the Felix collection.",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/c70a32d9-a514-4f4a-9677-83afa2379fb7.png",
+            "supply": null,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": null,
+            "twitter_url": null,
+            "discord_url": "https://discord.gg/kPdGewqBJC",
+            "category": "Meme"
+        },
+        {
+            "hash": "4f0fcf11fc84b79596eaa7b3c869ecc2f41bfd503732622c3b2cd96bd6b21ef8",
+            "name": "Tiny Redemption Token",
+            "code": "TINY2",
+            "description": "",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/3fce0778-1f04-4b13-aed8-dfea108ed354.png",
+            "supply": null,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": "https://tinytardigrades.club/tiny-tardigrade-collection",
+            "twitter_url": "https://twitter.com/ClubTardigrades",
+            "discord_url": "https://discord.com/channels/932279668701270026/982567819029925948",
+            "category": "Meme"
+        },
+        {
+            "hash": "5a1ddb8379d9547e68a71e870103f9a5cfb049dbf83eec309e4df9e166a01b98",
+            "name": "SquirrelRat NFT",
+            "code": "SQRT1",
+            "description": "SquirrelRat NFT Redemption CAT. Each CAT is exchangeable for 1 NFT. All redemptions need to be completed by 31 Oct 22. After which all SqRt1 will be void.",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/f7384ed1-f026-493e-b3a7-652eab260d00.png",
+            "supply": 603,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": "https://www.squirrelrat.com",
+            "twitter_url": "https://twitter.com/SquirrelRatNFT",
+            "discord_url": "https://discord.gg/QRzNAMFQ75",
+            "category": "Meme"
+        },
+        {
+            "hash": "32f9989569a6d457c5d2e8c72957709c4e1d7adb186f18b0963c93a9eac5c402",
+            "name": "Run NFT 2.0",
+            "code": "RUN",
+            "description": "NFT is hand-painted by our artists. Limited collection",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/b16674ae-7a82-455a-84f4-f817aacb9864.jpeg",
+            "supply": null,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": "https://twitter.com/WNFToken",
+            "twitter_url": "https://twitter.com/WNFToken",
+            "discord_url": "https://discord.gg/ccfhmRzQSt",
+            "category": "Platform"
+        },
+        {
+            "hash": "08beac6f8ae466d12e3bb710b775626549e11998d2f79d89708acee497aef1ba",
+            "name": "Fartbucks",
+            "code": "FART",
+            "description": "Fine Art Bucks",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/8cb71deb-f50a-424b-9c6a-f1876434ecbc.png",
+            "supply": null,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": "https://onlybillys.com",
+            "twitter_url": null,
+            "discord_url": "https://onlybillys.com",
+            "category": "Meme"
+        },
+        {
+            "hash": "f7d33a036caf9a111a68213d3f2307b67f09f016d8b132e37df96d250d716df4",
+            "name": "HollyCoin",
+            "code": "CKPO",
+            "description": "",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/ed3563ce-a1e0-46de-aec3-7b881e1f49e0.png",
+            "supply": null,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": "http://stellacoin.io/#d7d72fdf-cc62-4406-9d0d-96d4299712d0",
+            "twitter_url": null,
+            "discord_url": null,
+            "category": "Meme"
+        },
+        {
+            "hash": "061cf8381b419c6ad6879e53b32d0d8c05855f2a43187fae3fcaf96def5a4247",
+            "name": "Genesis Pickle Token",
+            "code": "GPT",
+            "description": "Genesis Pickle Token, redeemable for a Powerful Pickles NFT",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/5c510e79-4785-40d0-8846-2067180361c1.png",
+            "supply": null,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": "https://www.powerfulpickles.com",
+            "twitter_url": "https://twitter.com/PicklesPowerful",
+            "discord_url": "https://discord.gg/5srbPawhqX",
+            "category": "Meme"
+        },
+        {
+            "hash": "0b597916bbb1c223407accc5ea44753b6c726c3cef45cdd7e65b84347bd74029",
+            "name": "Grinning Goblins Gold",
+            "code": "GGG",
+            "description": "Gold for the Grinning Goblins NFT game on discord.\r\n\r\nEarn gold by participating in duels and events and use it to buy new strong or rare goblins!",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/229c2c22-14e9-410d-af31-42af09c30509.jpeg",
+            "supply": null,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": "https://grinninggoblins.nicepage.io/",
+            "twitter_url": "https://twitter.com/GrinningGobins",
+            "discord_url": "https://discord.gg/s4G7VtfkVB",
+            "category": "Gaming"
+        },
+        {
+            "hash": "ec9a01424e079b956736e2c184b1744a158ea52a9945ad0e1ed6b500155f1674",
+            "name": "DUBAI Token",
+            "code": "210",
+            "description": "A Chia Asset Tokens minted on the Chia Blockchain of appreciation with limited single issuance. Token In honor of Dubai being the best city in the world, for the chia community. This issuance is limited to 210 tokens in existence and there will never be more. Token has its own Value and can be used for different Use-Cases.",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/e9096666-525c-4d38-9741-8b2cb96b67a3.jpeg",
+            "supply": 210,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": "http://burjdubai.org/",
+            "twitter_url": "https://twitter.com/advlive2",
+            "discord_url": "https://discord.gg/P46q8d2G",
+            "category": "Meme"
+        },
+        {
+            "hash": "e5a8af7124c2737283838e6797b0f0a5293fc81aca1ffd2720f8506c23f2ad88",
+            "name": "Lucky 8 NFT",
+            "code": "LKY8",
+            "description": "8 Lucky. More 8 more lucky. 8,888,888 issuance.\r\n\r\nEach holder of 888,888 tokens will be able to claim one of 8 unique NFTs.",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/b94e6c92-71c2-45fb-9907-d9f39f229903.png",
+            "supply": null,
+            "hashgreen": {
+                "price": "0.00289000000000000020761",
+                "marketcap": 25688.88632
+            },
+            "website_url": null,
+            "twitter_url": "https://twitter.com/Lucky8Token",
+            "discord_url": "https://discord.gg/jF9VefR6gV",
+            "category": "Meme"
+        },
+        {
+            "hash": "7a0b3df66ba4eddbcdbb8071b9eba266cd3cb8a38d24f5b4e211e9a8bae0767f",
+            "name": "DUBAI Token",
+            "code": "D210",
+            "description": "A Chia Asset Tokens minted on the Chia Blockchain of appreciation with limited single issuance. Token In honor of Dubai being the best city in the world, for the chia community. This issuance is limited to 210 tokens in existence and there will never be more. Token has its own Value and can be used for different Use-Cases.",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/5753a919-a8f2-4123-9a56-565d18cf116d.jpeg",
+            "supply": 428,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": "http://burjdubai.org/",
+            "twitter_url": "https://twitter.com/advlive2",
+            "discord_url": "https://discord.gg/P46q8d2G",
+            "category": "Meme"
+        },
+        {
+            "hash": "92ee34a9728f12e889e79da5ccfa13267ca106e85e57ebf3f27232992c80c2e0",
+            "name": "XChangeNFT ProofofAddress",
+            "code": "XPA",
+            "description": "",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/4fc9b81d-a721-4b04-9e4f-e4350bc5f57b.png",
+            "supply": null,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": "https://xchangenft.io/",
+            "twitter_url": "https://twitter.com/XCHangeNFT_io",
+            "discord_url": null,
+            "category": "Meme"
+        },
+        {
+            "hash": "9995f30b83e7d3f3ea0eec7e450dbcade83f76516da79daa9a84a9daafec2329",
+            "name": "Abandoned Land - Work",
+            "code": "ALWORK",
+            "description": "Represents time spent working in Abandoned Land",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/65f17deb-4c8e-4033-9f90-3fe92118f77f.png",
+            "supply": null,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": "https://abandoned.land",
+            "twitter_url": "https://twitter.com/MayorAbandoned",
+            "discord_url": "https://discord.gg/eyr56jNxym",
+            "category": "Gaming"
+        },
+        {
+            "hash": "a8d60e4861f4472d88a82bcdf565fbed633dac508be60722b0be3f5808c73b32",
+            "name": "ECTS Cash",
+            "code": "ECTC",
+            "description": "CAT issued by the ECTS.io ecosystem.",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/75f50636-c2c9-44cc-bc04-749c69f9f39f.png",
+            "supply": null,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": "https://ects.io/cash",
+            "twitter_url": "https://twitter.com/ects_io",
+            "discord_url": null,
+            "category": "Meme"
+        },
+        {
+            "hash": "70fa530ab1f8ed49a5cf93bfbe44bb842d4fbd837a84c1eee377bcfb8f438672",
+            "name": "2022 Mojos",
+            "code": "TT22M",
+            "description": "Limited issuance fungible token in honor of the year Chia Asset Tokens first became tradable. There are 2.022 tokens, so 2,022 indivisible units. Who knows? They may become a collectors item when CATs become the basis of the global carbon market.",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/9d4de177-07cd-46d3-a1ee-7d4577596480.png",
+            "supply": null,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": "http://stellacoin.io/#475bd3a0-07ba-461d-ac17-d01af2b9e9ae",
+            "twitter_url": null,
+            "discord_url": null,
+            "category": "Event"
+        },
+        {
+            "hash": "2e9f0762c346e7514c694bbb31ad131972e925a3838d8ec83f2288f5a660844f",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/66884b42-41b7-4e8b-809c-de704444c22a.png",
+            "supply": null,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": null,
+            "twitter_url": null,
+            "discord_url": null,
+            "category": null
+        },
+        {
+            "hash": "12cc4ab2ce7ea00fc154456614265a624535e64dccb26fad7d2243ce9a83e973",
+            "name": "Multiplots",
+            "code": "MPLOT",
+            "description": "1 Multiplots CAT equals to 1 k32 Chia Proof of Space and Time plot hosted in our farm. The holder of this CAT gains the outcome created by the rented plots minus transaction fees until the first halving in 2024. Multiplots are capable of co-farming multiple PoST Blockchains.",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/8b29b47e-832e-477a-925b-7f65c40518ed.png",
+            "supply": 1,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": "https://famer.diamonds",
+            "twitter_url": "https://twitter.com/FarmerDiamonds",
+            "discord_url": null,
+            "category": "Platform"
+        },
+        {
+            "hash": "afefb47c852838c9f66d5c116f11f1b655371377f6671d952f8253ce828461d0",
+            "name": "Pixel",
+            "code": "PIX",
+            "description": "Pixel is token of the PixPunk NFT's collections.\r\n\r\nWe have decided to unite with our fellow chia farmers and xch believers.\r\nAn ever evolving NFT project aimed towards the metaverses of the future.\r\n\r\nEach holder of 1 $PIX will be able to claim its correlating PixPunk NFT.",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/5736df6c-c37c-4ea0-9ce8-fa3e75e4dcd2.png",
+            "supply": null,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": "https://pixelnft.info",
+            "twitter_url": "https://twitter.com/PixPunkNFT",
+            "discord_url": null,
+            "category": "Meme"
+        },
+        {
+            "hash": "7108b478ac51f79b6ebf8ce40fa695e6eb6bef654a657d2694f1183deb78cc02",
+            "name": "Green App Development",
+            "code": "GAD",
+            "description": "Ecosystem of products for Chia network. \r\n",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/f6b57b2c-9cbd-4d5d-8c93-27ce339b8437.png",
+            "supply": null,
+            "hashgreen": {
+                "price": "0.00289000000000000020761",
+                "marketcap": 12941732.87429
+            },
+            "website_url": "http://green-app.io/",
+            "twitter_url": "https://twitter.com/greenapp_io",
+            "discord_url": "https://discord.gg/cHefNVK2D4",
+            "category": "Platform"
+        },
+        {
+            "hash": "04e28f2f24e1a8ba8290b30293976cdee933d1683220014316da6f8ee7753920",
+            "name": "Chiania Coin",
+            "code": "XCC",
+            "description": "Chiania Coin (CC) is the major currency used in Chia Inventory, which is the first RPG Discord MUD game built on Chia blockchain. Players can earn CC from monsters, quests, and dungeons, and withdraw it as on-chain CC (XCC).\r\n\r\nTotal supply of XCC is 1,000,000,000, all coins will be distributed through our game (Step 1: Get in-game CC; Step 2: Earn reputation; Step 3: Withdraw CC as XCC). Depositing XCC to Chia Inventory will generate equal amount of in-game CC.",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/55c53d40-7ba6-44ab-a96e-8fcd67b50458.png",
+            "supply": 3000000000,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": "https://reurl.cc/gMmpN4",
+            "twitter_url": "https://twitter.com/mrcic3",
+            "discord_url": "discord.gg/vZzD6SrRbH",
+            "category": "Gaming"
+        },
+        {
+            "hash": "8ebf855de6eb146db5602f0456d2f0cbe750d57f821b6f91a8592ee9f1d4cf31",
+            "name": "Marmot Coin",
+            "code": "MRMT",
+            "description": "Marmot coins are issued in return for providing a proof of Marmot. This is achieved by sending a photograph of yourself with a live Marmot, or by donating a toy Marmot to a children's charity and providing evidence of this, or by donating $100 or more to the Marmot Recovery Foundation.",
+            "chialisp": "; This is a \"limitations_program\" for use with cat.clvm.\n(mod (\n      PUBKEY\n      Truths\n      parent_is_cat\n      lineage_proof\n      delta\n      inner_conditions\n      (\n        delegated_puzzle\n        delegated_solution\n      )\n    )\n\n    (include condition_codes.clvm)\n\n    (defun sha256tree1 (TREE)\n          (if (l TREE)\n              (sha256 2 (sha256tree1 (f TREE)) (sha256tree1 (r TREE)))\n              (sha256 1 TREE)))\n\n    (c (list AGG_SIG_UNSAFE PUBKEY (sha256tree1 delegated_puzzle))\n      (a delegated_puzzle (c Truths (c parent_is_cat (c lineage_proof (c delta (c inner_conditions delegated_solution))))))\n    )\n)",
+            "clvm": "(a (q 2 (q 4 (c 4 (c 5 (c (a 6 (c 2 (c 639 ()))) ()))) (a 639 (c 11 (c 23 (c 47 (c 95 (c -65 1407))))))) (c (q 49 2 (i (l 5) (q 11 (q . 2) (a 6 (c 2 (c 9 ()))) (a 6 (c 2 (c 13 ())))) (q 11 (q . 1) 5)) 1) 1)) (c (q . 0xa6de2e97bb0dfdf0e2ea3ef1b9704f5298b5cb2c04b1dcf1261498cc1e5a89b82925cb105694618dc605b940edcdcc45) 1))",
+            "logo_url": "https://images.taildatabase.com/tails/476ba839-7306-4eef-9a6a-ccba61a6b0c0.png",
+            "supply": 100,
+            "hashgreen": {
+                "price": "641.200000000000045474735",
+                "marketcap": 64120.00000000001
+            },
+            "website_url": null,
+            "twitter_url": null,
+            "discord_url": null,
+            "category": "Meme"
+        },
+        {
+            "hash": "3b27617d821428052f00199e7a06b1ab666d58a59901540455fe71d36451a00c",
+            "name": "Hairy Bear Honey Jars",
+            "code": "JAR",
+            "description": "Honey Jars from the Hairy Bears. Get yours by contributing to their shaving efforts! JAR holders get weekly HONEY drops.",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/4dee3f2b-ffe9-4db6-85e7-bebad748a366.png",
+            "supply": 2674,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": "https://jars.hairybearsocial.club",
+            "twitter_url": "https://twitter.com/hairybearsc",
+            "discord_url": "https://discord.gg/nx4mXMs3xw",
+            "category": "Platform"
+        },
+        {
+            "hash": "db1a9020d48d9d4ad22631b66ab4b9ebd3637ef7758ad38881348c5d24c38f20",
+            "name": "dexie bucks",
+            "code": "DBX",
+            "description": "Platform and Governance Token of dexie",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/be9c2dac-a4e7-4ac0-9624-d1817bb1b9c2.png",
+            "supply": 100000000,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": "https://dexie.space/dbx",
+            "twitter_url": "https://twitter.com/dexie_space",
+            "discord_url": "https://discord.gg/3xUrkAxUmd",
+            "category": "Platform"
+        },
+        {
+            "hash": "fe65842a8b4f20c212360e22ad3da51d3b30020b29fd0a7b395ae60fcc6f6321",
+            "name": "Collectible Resource Unit",
+            "code": "CRU",
+            "description": "In-Game currency of Crew of Eight (CO8) NFT collection.",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/f3a65f0a-ba8d-4b8b-a8ae-a47291cff997.png",
+            "supply": 39996,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": null,
+            "twitter_url": "https://twitter.com/CrewOfEight_",
+            "discord_url": "https://discord.com/invite/UjmxjX7yJY",
+            "category": "Gaming"
+        },
+        {
+            "hash": "6431a89ee450e0844a3f2a243725a0707b9fbd3f0fef349f485d2de7ecaf3ea9",
+            "name": "The Lisa",
+            "code": "LISA",
+            "description": "Here is a Chia Asset Token to celebrate the greatest of all computer systems. Someday soon, these tokens will be redeemable for an exclusive NFT... Stay tuned!",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/de9a573d-d013-4b25-bb53-b19cf0a14675.png",
+            "supply": null,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": null,
+            "twitter_url": null,
+            "discord_url": "https://discord.gg/JbWRKZCpzk",
+            "category": "Meme"
+        },
+        {
+            "hash": "5a7c011e1bea52a87fc72952dfafad0d82fcde0448a2a4fa7fa0bd53d9a4e1c9",
+            "name": "Year of the Tiger",
+            "code": "YOTT",
+            "description": "A Chia Asset Token to commemorate the Year of the Tiger! After the year ends, these will become redeemable for a beautiful NFT.",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/e4e50713-e268-46da-800e-47702c464155.png",
+            "supply": null,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": "https://zodiacal.keybase.pub",
+            "twitter_url": null,
+            "discord_url": "https://discord.gg/JbWRKZCpzk",
+            "category": "Event"
+        },
+        {
+            "hash": "8f27f8b6aa31e07f4de43e12eea854ab450d56afdd65be4328928f5bd2fa80cb",
+            "name": "Mystery Coin",
+            "code": "XIPM",
+            "description": "Mystery Coin (XIPM), like Fools Gold is a single mint Chia CAT token. What makes it radically different is it's max supply of only 6187 XIPM. Mystery Coin is only distributed inside the Fools Gold community.",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/f84f3eb7-4f20-4620-af6e-b14c4e2c7969.png",
+            "supply": null,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": "https://www.foolsgoldcat.com/",
+            "twitter_url": "https://twitter.com/foolsgoldcat",
+            "discord_url": "https://discord.gg/m3nwRbAdd9",
+            "category": "Meme"
+        },
+        {
+            "hash": "319ad6d73f87f62f446765b03c55af860e2c3dcac9105a78532038f4056a9160",
+            "name": "YELLOWBEARD",
+            "code": "BEARD",
+            "description": "Yellowbeard.",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/2ecd9391-b728-49f6-8ab4-e4e8d976a47e.jpeg",
+            "supply": null,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": "http://greensword.chat/",
+            "twitter_url": "https://twitter.com/yellowbeard2022",
+            "discord_url": null,
+            "category": "Meme"
+        },
+        {
+            "hash": "d773501c5a28b57d465d6b36fdd7562766460950f745ce88b3a611101d6227ce",
+            "name": "Unidentified Space Phenom",
+            "code": "USPP",
+            "description": "a token of great advantage but nobody to know what its meme is",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/03b8190e-ddd3-443a-ae77-4e9f681fb7ed.png",
+            "supply": null,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": "http://stellacoin.io/#3ced71b8-4318-4fef-a1ad-a46a44855c1b",
+            "twitter_url": null,
+            "discord_url": null,
+            "category": "Meme"
+        },
+        {
+            "hash": "62ddc5ed7bb626baa27703c29b8523f9032292559463dade21d0f5265c8cdd37",
+            "name": "CAT King Cole",
+            "code": "CKC",
+            "description": "This is a coin for lovers of classical jazz and smoke-filled bars. Hand-crafted from a single minting of 1 million tokens. Get yours before the music stops!",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/1127af6a-2cf3-40a7-b073-10de41ce5fac.png",
+            "supply": null,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": null,
+            "twitter_url": null,
+            "discord_url": null,
+            "category": "Meme"
+        },
+        {
+            "hash": "6d95dae356e32a71db5ddcb42224754a02524c615c5fc35f568c2af04774e589",
+            "name": "Stably USD",
+            "code": "USDS",
+            "description": "Stablecoin pegged to USD.",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/86b8ebab-7d76-4321-972a-a57b23dbf5b4.jpeg",
+            "supply": null,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": "https://www.stably.io/",
+            "twitter_url": "https://twitter.com/Stably_Official",
+            "discord_url": null,
+            "category": "Stablecoin"
+        },
+        {
+            "hash": "d332339b36c8ddd329a5e471a279c4f689395723c8d73ae81537fae5937184fd",
+            "name": "APULIA GRAPES",
+            "code": "GRAPES",
+            "description": "GRAPE MAKES GRAPES",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/d6d01d02-04b4-4bc6-ad67-d636e0db73c4.jpeg",
+            "supply": 186279,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": "https://form.jotform.com/222716480124046",
+            "twitter_url": "https://twitter.com/ApuliaGrapes",
+            "discord_url": null,
+            "category": "Meme"
+        },
+        {
+            "hash": "ea830317f831a23b178aa653e50484568d30d2c5b34d8140e71247ead05961c7",
+            "name": "Caesar Coin",
+            "code": "CC",
+            "description": "Gaius Iulius Caesar",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/86418e2c-a7c3-43d1-bfb9-b421f0066ed3.png",
+            "supply": 5349386468.277,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": "https://caesar.wales",
+            "twitter_url": "https://twitter.com/XCH_Caesar",
+            "discord_url": null,
+            "category": "Meme"
+        },
+        {
+            "hash": "9f65e250eae02e8a64f1d89952431f369fd667386c19acce95dc217878b2e134",
+            "name": "Treasure Chest",
+            "code": "TCHST",
+            "description": "Dividend stock",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/7e3e92bd-9bdf-4ecc-9213-6c8efb283cff.png",
+            "supply": null,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": "https://treasurechest.cloud/",
+            "twitter_url": null,
+            "discord_url": "https://discord.gg/Uxy6vp4AwJ",
+            "category": "Platform"
+        },
+        {
+            "hash": "57138565da3cd7346097bb27ab05e4da3fd588188a6d4ae255fbb84262aae56d",
+            "name": "Collector's Guild Token",
+            "code": "CGT",
+            "description": "A Token issued to those who were able to collect all 4 rare coins enabling the holder to obtain a guild membership pass.",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/ac64c36d-7903-4ec6-a7cf-8cca698a708d.png",
+            "supply": null,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": null,
+            "twitter_url": null,
+            "discord_url": null,
+            "category": "Meme"
+        },
+        {
+            "hash": "953615110fa1f1a2680a5106d5c47aec35e9c0f543034c994686862e16091f99",
+            "name": "Cute Aliens",
+            "code": "UFO",
+            "description": "Cute Aliens ",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/1968058c-3089-4964-8e67-313265c743fe.png",
+            "supply": 400,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": "https://twitter.com/thecutealiens",
+            "twitter_url": "https://twitter.com/thecutealiens",
+            "discord_url": "https://discord.gg/Th2QMApf7d",
+            "category": "Meme"
+        },
+        {
+            "hash": "a628c1c2c6fcb74d53746157e438e108eab5c0bb3e5c80ff9b1910b3e4832913",
+            "name": "Spacebucks",
+            "code": "SBX",
+            "description": "The galactic monetary standard.",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/db5d19ef-c798-4f96-b448-2eea788dbe0e.png",
+            "supply": null,
+            "hashgreen": {
+                "price": "0.00041699999999999999871",
+                "marketcap": 417000
+            },
+            "website_url": null,
+            "twitter_url": null,
+            "discord_url": null,
+            "category": "Meme"
+        },
+        {
+            "hash": "1b894664dbdf9eae44d9ede9c8071402ffed19b6fd672bf36e3085df42cdf2f1",
+            "name": "HODL Coin",
+            "code": "HODL",
+            "description": "Compete with other players to see how long you can HODL!",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/74dc3207-eb14-48d3-885b-df0e3c23ae93.jpeg",
+            "supply": null,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": "https://catmos.io",
+            "twitter_url": "https://twitter.com/CatmosCoin",
+            "discord_url": "https://discord.com/invite/r7j2XPZJYU",
+            "category": "Gaming"
+        },
+        {
+            "hash": "1a8bd94ce5b26ef7fdedec6a21748a747fc8d1f05972efd248b63298c3e5be96",
+            "name": "Pool Coin",
+            "code": "XPC",
+            "description": "PoolCoin is dropped monthly to all farmers farming in XCHPool!",
+            "chialisp": "; This is a \"limitations_program\" for use with cat.clvm.\n(mod (\n      PUBKEY\n      Truths\n      parent_is_cat\n      lineage_proof\n      delta\n      inner_conditions\n      (\n        delegated_puzzle\n        delegated_solution\n      )\n    )\n\n    (include condition_codes.clvm)\n\n    (defun sha256tree1 (TREE)\n          (if (l TREE)\n              (sha256 2 (sha256tree1 (f TREE)) (sha256tree1 (r TREE)))\n              (sha256 1 TREE)))\n\n    (c (list AGG_SIG_UNSAFE PUBKEY (sha256tree1 delegated_puzzle))\n      (a delegated_puzzle (c Truths (c parent_is_cat (c lineage_proof (c delta (c inner_conditions delegated_solution))))))\n    )\n)",
+            "clvm": "(a (q 2 (q 4 (c 4 (c 5 (c (a 6 (c 2 (c 639 ()))) ()))) (a 639 (c 11 (c 23 (c 47 (c 95 (c -65 1407))))))) (c (q 49 2 (i (l 5) (q 11 (q . 2) (a 6 (c 2 (c 9 ()))) (a 6 (c 2 (c 13 ())))) (q 11 (q . 1) 5)) 1) 1)) (c (q . 0xb07aa5df16e4d7d96391e06d93886e1a2efbf013a3b4bb941c722721ffbdfa1e62b1ccdd2bff9bf16ff494c44518d90a) 1))",
+            "logo_url": "https://images.taildatabase.com/tails/8597bfcf-2eb0-454f-bdef-bd9620aa346e.jpeg",
+            "supply": null,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": "https://explorer.xchpool.org",
+            "twitter_url": "https://twitter.com/xchpool",
+            "discord_url": "https://discord.com/invite/AzK3Z3qbek",
+            "category": "Meme"
+        },
+        {
+            "hash": "209fd79450d51856eaa980af5d14bbc0d4312e692817f6c014820733d5902ba7",
+            "name": "Farmer Diamonds",
+            "code": "DIAS",
+            "description": "The hardest asset token",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/80451ac5-3f9c-4aa8-ae91-2bc84d570f0e.png",
+            "supply": null,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": "https://farmer.diamonds",
+            "twitter_url": "https://twitter.com/farmerdiamonds",
+            "discord_url": null,
+            "category": "Meme"
+        },
+        {
+            "hash": "448db5e3ed726231f9240fab6f117d70720af1f20496ff2e8973141c5e828c14",
+            "name": "I Love You",
+            "code": "LOVE",
+            "description": "I Love You",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/44ec9b5d-6a65-413a-aa96-5c78347857bf.png",
+            "supply": null,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": null,
+            "twitter_url": null,
+            "discord_url": null,
+            "category": "Event"
+        },
+        {
+            "hash": "96de47df2c31441efa46d049d2763c750561f0cfa1db3c8bfcb4c72db94a06f6",
+            "name": "Hunter of 8",
+            "code": "HNTR8",
+            "description": "A token to be issued to stage 1 winners of a multi-stage LKY8 scavenger hunt.",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/69fbf293-3807-48a0-b2dd-5e7a9f08391e.png",
+            "supply": null,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": null,
+            "twitter_url": null,
+            "discord_url": "https://discord.gg/jF9VefR6gV",
+            "category": "Meme"
+        },
+        {
+            "hash": "072bd3ee80de3f3cb13950738d4615b9adec0973b4c6364f097f76ea51519795",
+            "name": "MOON",
+            "code": "MOON",
+            "description": "We created this MEME Cat token MOON with the help of GIVEWAY. We maintain a databases of 58 chia forks. One of the purposes of $moon is to use it as a fee to access these databases. For more info please come to our discord server.",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/4c3b3553-1b77-49f2-a530-68d0008c327b.jpeg",
+            "supply": 10000000,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": "https://createvirtualworld.com/moon/",
+            "twitter_url": null,
+            "discord_url": "https://discord.gg/FKWMn29Nxm",
+            "category": "Platform"
+        },
+        {
+            "hash": "6e1815ee33e943676ee437a42b7d239c0d0826902480e4c3781fee4b327e1b6b",
+            "name": "Brother Shiwan",
+            "code": "BSH",
+            "description": "Brother Shiwan is a Chia meme coin issued to commemorate a legendary figure named Shiwan Brother in Chinese Chia Community (Shiwan means $100K in Chinese ). Brother Shiwan persistently believes that XCH will one day to be $100K! ",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/cd864a92-facb-48a5-a02e-6344425538c8.png",
+            "supply": 100000000,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": "https://brothershiwan.com/",
+            "twitter_url": "https://twitter.com/brothershiwan",
+            "discord_url": "https://discord.com/invite/J3qJDWbEYb",
+            "category": "Meme"
+        },
+        {
+            "hash": "c4f87b1666b8974907e3a8f3cdfcfc32b0dd820324d7c3302405373e999681e0",
+            "name": "Marvelous Marmot Ticket",
+            "code": "MMT",
+            "description": "A golden ticket, issued by the Marvelous Marmot King",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/184703c0-1080-4aba-aaa5-becd9d53d43e.png",
+            "supply": null,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": null,
+            "twitter_url": null,
+            "discord_url": null,
+            "category": "Event"
+        },
+        {
+            "hash": "79344c6df333dc75da4568495dc61a557a00552a0839012345b53e170e24010a",
+            "name": "ProofOfAnything",
+            "code": "POA",
+            "description": "CAT with a supply of 0.001 is not expected to be traded. It will be a functional token.",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/77768002-f8c7-463c-ae6f-7b0b0519a29b.png",
+            "supply": null,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": "https://xchangenft.io/",
+            "twitter_url": "https://twitter.com/XCHangeNFT_io",
+            "discord_url": null,
+            "category": "Platform"
+        },
+        {
+            "hash": "4e34fb4247865a1a644c992a51340aa32f397f094cf1abd9663803ed4e172dfc",
+            "name": "Felix Gold",
+            "code": "FLXG",
+            "description": "Felix Gold 1,000,000 minted in the Felix collection",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/3e29c1bf-9223-40ed-a9f8-7e3b4ae0b6b4.png",
+            "supply": null,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": null,
+            "twitter_url": null,
+            "discord_url": "https://discord.gg/kPdGewqBJC",
+            "category": "Meme"
+        },
+        {
+            "hash": "dbb68e56d392e5f77d03c593f8c78eb6474f23923cdf403fcbcc363ed48bead2",
+            "name": "Bitcoin",
+            "code": "BTC",
+            "description": "Bitcoin",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/32865fd9-f574-48ce-99cd-f85d748c59af.png",
+            "supply": null,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": null,
+            "twitter_url": "https://twitter.com/NftpixelT",
+            "discord_url": null,
+            "category": "Gaming"
+        },
+        {
+            "hash": "b2cc1b0d58a770130808a926b7895171200c568977ab4f657c395b62ab8b179b",
+            "name": "Chialing Hundreds",
+            "code": "XLHN",
+            "description": "These are the HUNDRED token denomination of Chialing currency.  Visit the Chialing website or my Discord to learn more about them! The twitter link here is for Chialing NFT Certificates, for which these CATs can be redeemed...",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/3315a49a-6c0c-438c-a5f7-09d47252f7bf.png",
+            "supply": null,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": "https://bafybeifijcgk64pny3vdjjxhivcbdo3g2nm37notjz453zh5rq6y543ef4.ipfs.nftstorage.link/",
+            "twitter_url": "https://twitter.com/ChialingCerts",
+            "discord_url": "https://discord.gg/JbWRKZCpzk",
+            "category": "Meme"
+        },
+        {
+            "hash": "679ee6033628618aa52d1742c42aad6d5f516ab6c9993746f15e8c79640e2952",
+            "name": "Catcoin",
+            "code": "CAT2",
+            "description": "",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/3f96086e-e03b-49ec-9833-0a59328f8e46.png",
+            "supply": null,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": "http://Catcoin.online",
+            "twitter_url": null,
+            "discord_url": "https://discord.gg/sHyhEKHVtG",
+            "category": "Meme"
+        },
+        {
+            "hash": "e4c51a45168093596cd7583bd952c509a2681fc819d97c583684c697b16e66cb",
+            "name": "Azures",
+            "code": "AZURES",
+            "description": "errrrrrrrrrrr",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/f57a9813-ba5e-45b9-bb3a-5c6b44b3c19a.jpeg",
+            "supply": null,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": "https://omgopo.io",
+            "twitter_url": "https://twitter.com/OMGopo",
+            "discord_url": "https://discord.gg/k6WY77spfC",
+            "category": "Meme"
+        },
+        {
+            "hash": "89f3f718cd4077f1685f338974ec7ee7850444d4e2fb9b5c4dcf02e40e12663f",
+            "name": "NioMint",
+            "code": "NIOT",
+            "description": "Token for NioMinted membership",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/7477f150-a312-4aa1-8e47-4ee34eaf85cc.jpeg",
+            "supply": null,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": "https://niocoin.info",
+            "twitter_url": "https://twitter.com/niocoininfo",
+            "discord_url": "https://discord.gg/KJ7uge7gxA",
+            "category": "Event"
+        },
+        {
+            "hash": "1d0d63d3f3384605cb22866a48b7a855938572c5ef02fdbe2f14210ee4c03e0e",
+            "name": "Kaljaviikko",
+            "code": "OLUT",
+            "description": "One kaljaviikko is equivalent to a weeks worth of beer consumption (and apparel such as flame beanie and fast sunglasses). As such, one coin can have no set value as it is unique for each holder, typically ranging from zero to several thousands of USD.\r\n\r\nThe total existing supply is 52 weeks worth. A very liquid asset.\r\n\r\nParallel asset for those not dealing in bulk lager: https://bit.ly/3QLp9g7",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/e839c2cc-a667-47e4-8829-093ac8e76a82.jpeg",
+            "supply": 103.99999999999999,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": null,
+            "twitter_url": null,
+            "discord_url": null,
+            "category": "Meme"
+        },
+        {
+            "hash": "39527b8859d3acfb2dcad3956106207d880c2020c3deb0960ab88c337f6dc14a",
+            "name": "Lupi",
+            "code": "LUPI",
+            "description": "",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/a10c3f64-5320-4c5c-adab-4378b06bd9ed.jpeg",
+            "supply": null,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": "https://lupi.games",
+            "twitter_url": null,
+            "discord_url": null,
+            "category": "Meme"
+        },
+        {
+            "hash": "22945c6c10f2c1be9f4b2484652768498cf1e4153c015a7bf981913a6b21430a",
+            "name": "Board Game Crypto Intro",
+            "code": "BGCI",
+            "description": "Token free for phase 1 of the Board Game Crypto games.",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/85ef5ba3-036f-4d44-af4a-7715ab64a397.png",
+            "supply": null,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": "http://www.boardgamecrypto.com",
+            "twitter_url": "http://twitter.com/BoardGameCrypto",
+            "discord_url": null,
+            "category": "Gaming"
+        },
+        {
+            "hash": "1065c0b2dd987e634ab3e48c1883e629bf7c475315c892e39138360606ebb00c",
+            "name": "TVS",
+            "code": "TVS",
+            "description": "Monnaie tirée du livre : \"Crypto : une année sur la route pour devenir multimillionnaire ",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/d5f735d6-8e99-40c8-9541-27e4d7b6d4da.png",
+            "supply": 1000000,
+            "hashgreen": {
+                "price": "3.20999999999999996447286",
+                "marketcap": 3210000
+            },
+            "website_url": "https://twitter.com/vs_traders",
+            "twitter_url": "https://twitter.com/vs_traders",
+            "discord_url": null,
+            "category": "Education"
+        },
+        {
+            "hash": "fc7bfd37a13bf524552a7e3c9f60fcfff8c557b1859dd59f71206396f989681e",
+            "name": "Space RatZ NFT GEN2",
+            "code": "RATZ2",
+            "description": "Second Generation of the Unique @SpaceRatZNFT collection. New superb extraordinary and customised attributes hand drawn arts. ",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/d2e14f36-c4ae-4af6-995b-c0164dbd396f.png",
+            "supply": null,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": "https://spaceratznft.xyz/",
+            "twitter_url": "https://twitter.com/SpaceRatZNFT",
+            "discord_url": "https://discord.com/invite/qckqVMcsyM",
+            "category": "Wrapped Crypto"
+        },
+        {
+            "hash": "f7495302b0598cb5004377a364bef89fd17575a2c6a1653ac7a68cb304fb980f",
+            "name": "Bottle cap",
+            "code": "BCAP",
+            "description": "Proof of BottleCap! 1 Token equals 1 bottle cap in real life.",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/20bd2870-a7d8-47e0-abdd-0ac6f24d371e.png",
+            "supply": null,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": "https://bcap.cat",
+            "twitter_url": "https://twitter.com/BottleCapXCH",
+            "discord_url": "https://discord.gg/S9PqMh9P",
+            "category": "Meme"
+        },
+        {
+            "hash": "1bc3bdfc30f47f01ca4ca55df8d135ed2b66ad24e8ddd2c114d40d47e5a5d02b",
+            "name": "CATMOS Scissors",
+            "code": "CAT6OR",
+            "description": "Represents \"scissors\" in Catmosphere Rock-Paper-Scissors games.",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/24d3530b-178b-4284-bc92-901fce9b277e.jpeg",
+            "supply": null,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": "https://catmos.io",
+            "twitter_url": "https://twitter.com/CatmosCoin",
+            "discord_url": "https://discord.com/invite/r7j2XPZJYU",
+            "category": "Gaming"
+        },
+        {
+            "hash": "daf1390497969e647289b9f596248c0b1f6d91a7ece190a8954f28cd694d5f77",
+            "name": "Star Coin",
+            "code": "STAR",
+            "description": "The stars are beautiful. It is said that each star represents a person……",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/75675dfb-e0e4-499c-9af3-c440b86425d2.png",
+            "supply": null,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": "https://github.com/health168/star",
+            "twitter_url": null,
+            "discord_url": "https://discord.gg/cwdU7PAqBp",
+            "category": "Meme"
+        },
+        {
+            "hash": "b8edcc6a7cf3738a3806fdbadb1bbcfc2540ec37f6732ab3a6a4bbcd2dbec105",
+            "name": "Monkeyzoo Token",
+            "code": "MZ",
+            "description": "Monkeyzoo Token is the native token of the Monkeyzoo NFT project.\r\n\r\nAn ever evolving NFT project aimed towards the metaverses of the future.\r\nYield $MZ just by holding an NFT!\r\nDesign and sell your own Monkeyzoo designs!\r\nFull comercial Licences with each NFT!\r\nSell your own Monkeyzoo products!\r\n\r\nLet Monkeyzoo be your brand!\r\n\r\nwww.monkeyzoo.net\r\n",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/0432e3e2-89ff-4032-92a9-e402c34fb303.png",
+            "supply": null,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": "www.monkeyzoo.net",
+            "twitter_url": "https://twitter.com/monkeyzoo",
+            "discord_url": "https://discord.gg/zfmqqG5Hdp",
+            "category": "Gaming"
+        },
+        {
+            "hash": "482b49902d310c53065c3531d398d41808f1390590d566815d67040f6a32d124",
+            "name": "Catkchi",
+            "code": "CTK",
+            "description": "Our vision is to connect millions of people by presenting them with the opportunity to obtain, create and offer a suite of digital products and services through Chia, the most revolutionary cryptocurrency blockchain in existence. Our token, Catkchi, is the medium of exchange for using all these products and services.",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/c022df13-ad56-4e70-8e90-88776ab4d9a4.png",
+            "supply": 547691555.507,
+            "hashgreen": {
+                "price": "0.00119000000000000008549",
+                "marketcap": 651752.9516400001
+            },
+            "website_url": "https://www.catkchi.com",
+            "twitter_url": "https://twitter.com/catkchi?t=wh7mBjhpJWDWwK0wP1jucA&s=09",
+            "discord_url": "https://discord.gg/AsC3WsRkGh",
+            "category": "Platform"
+        },
+        {
+            "hash": "34f64cf041a182635d467ecb24348993317fae4371ecadba35397431308c6254",
+            "name": "Find The Key",
+            "code": "FTK",
+            "description": "Token for find the key puzzles.",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/438c14ad-e787-41bb-aa46-42991839bb82.jpeg",
+            "supply": null,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": "https://twitter.com/DJ_DrewCT",
+            "twitter_url": "https://twitter.com/DJ_DrewCT",
+            "discord_url": null,
+            "category": "Gaming"
+        },
+        {
+            "hash": "f3f2b8a1d1480c1d7d241e0fc5e5e3b8a346cb861474fb0b55b512e6f26184e7",
+            "name": "Compassion CAT - Founder",
+            "code": "CCFO",
+            "description": "Founder tokens can be redeemed for Green Wings NFTs.",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/261e95e9-3543-4f3c-9396-dc72cd7292d8.jpeg",
+            "supply": null,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": "https://wings.green",
+            "twitter_url": "https://twitter.com/GreenWingsOrg",
+            "discord_url": "https://discord.gg/nSd8RK38UR",
+            "category": "Gaming"
+        },
+        {
+            "hash": "1397080ca3d0b477b2f6a5ed06750a63b6eea11931e948ee074ad12307fe782e",
+            "name": "CoinHead",
+            "code": "HEAD",
+            "description": "Head",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/e69226b5-19f5-45ba-820e-6861df763bec.png",
+            "supply": null,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": "https://www.taildatabase.com/tail/1397080ca3d0b477b2f6a5ed06750a63b6eea11931e948ee074ad12307fe782e",
+            "twitter_url": "https://twitter.com/NftpixelT",
+            "discord_url": null,
+            "category": "Gaming"
+        },
+        {
+            "hash": "abd03d855cb2c11bcb67427ad63480eec4c36091bd291018041cc1dce173a000",
+            "name": "CrunchCoin",
+            "code": "CRCH",
+            "description": "Another dog coin",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/83184413-88b1-41d9-9241-a349f99c0b30.jpeg",
+            "supply": null,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": "https://twitter.com/mouthy/",
+            "twitter_url": "https://twitter.com/mouthy/",
+            "discord_url": null,
+            "category": "Meme"
+        },
+        {
+            "hash": "e9afb5ce4f89074cf84a5f3b872055e479c397e5f0acc16e917903b9991479a2",
+            "name": "Spork",
+            "code": "SPORK",
+            "description": "Exchange your Chia Fork tokens for the Spork Chia Asset Token",
+            "chialisp": "; This is a \"limitations_program\" for use with cat.clvm.\n(mod (\n      PUBKEY\n      Truths\n      parent_is_cat\n      lineage_proof\n      delta\n      inner_conditions\n      (\n        delegated_puzzle\n        delegated_solution\n      )\n    )\n\n    (include condition_codes.clvm)\n\n    (defun sha256tree1 (TREE)\n          (if (l TREE)\n              (sha256 2 (sha256tree1 (f TREE)) (sha256tree1 (r TREE)))\n              (sha256 1 TREE)))\n\n    (c (list AGG_SIG_UNSAFE PUBKEY (sha256tree1 delegated_puzzle))\n      (a delegated_puzzle (c Truths (c parent_is_cat (c lineage_proof (c delta (c inner_conditions delegated_solution))))))\n    )\n)",
+            "clvm": "(a (q 2 (q 4 (c 4 (c 5 (c (a 6 (c 2 (c 639 ()))) ()))) (a 639 (c 11 (c 23 (c 47 (c 95 (c -65 1407))))))) (c (q 49 2 (i (l 5) (q 11 (q . 2) (a 6 (c 2 (c 9 ()))) (a 6 (c 2 (c 13 ())))) (q 11 (q . 1) 5)) 1) 1)) (c (q . 0xb112cde93282a37ae3616a355da1b676046eef10f2a545b927c8afa0b0b297a605fa2147c72f531fb28442cd444fc54f) 1))",
+            "logo_url": "https://images.taildatabase.com/tails/83e4749d-6a92-4f8a-9d66-324c17af1c48.png",
+            "supply": null,
+            "hashgreen": {
+                "price": "0.09619999999999999384936",
+                "marketcap": null
+            },
+            "website_url": "https://sporkswap.com",
+            "twitter_url": null,
+            "discord_url": null,
+            "category": "Platform"
+        },
+        {
+            "hash": "b7c0b9c3a59898a8a9e9be1e9d77d63be558bc57060257a2a667c8ca7ab687a8",
+            "name": "Hairy Bear Honey",
+            "code": "HONEY",
+            "description": "HONEY is the official currency of the Hairy Bear Social Club. HONEY is distributed through recurring airdrops to JAR owners.",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/8734ca76-cef6-420d-89f2-a2a410558312.png",
+            "supply": 45799440.819,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": "https://honey.hairybearsocial.club",
+            "twitter_url": "https://twitter.com/hairybearsc",
+            "discord_url": "https://discord.gg/nx4mXMs3xw",
+            "category": "Platform"
+        },
+        {
+            "hash": "7b9c9d08ad6bcdee70f32ecf5e923af1ae27887e283299fbcef6bd4f8decc72b",
+            "name": "The Syndic8",
+            "code": "XSYN",
+            "description": "Another fun challenge token in the Lucky 8 NFT series. A tophat will make you look sharp, but will it help you win? Only 43 exist!",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/8702b866-cbf0-4ebc-a9cd-809e4e60f8ca.png",
+            "supply": null,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": null,
+            "twitter_url": null,
+            "discord_url": "https://discord.gg/jF9VefR6gV",
+            "category": "Event"
+        },
+        {
+            "hash": "0570076f3c2cd8d6e65f9b56f96ab92079d3ce7ab7372c751e1c19fdb42b25d4",
+            "name": "APULIA GRAPE",
+            "code": "GRAPE",
+            "description": "APULIA GRAPE",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/90ff782c-6a07-478d-afc1-d482f919862f.jpeg",
+            "supply": 17754429,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": "https://form.jotform.com/222716480124046",
+            "twitter_url": "https://twitter.com/ApuliaGrapes",
+            "discord_url": null,
+            "category": "Meme"
+        },
+        {
+            "hash": "fa78ff512fda2a53840cf125eb5db2db1ada9e9d47a6b78128ef99a37b406078",
+            "name": "Leaf Token",
+            "code": "LT",
+            "description": "Leaf Tokens as part of the Chia Leaf Project",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/c0858530-b0cb-4f79-b2f5-9f3c2ca86d31.png",
+            "supply": null,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": "http://chialeaf.co.uk/",
+            "twitter_url": "https://twitter.com/chialeafnft",
+            "discord_url": "https://discord.gg/Cc5n3UjS",
+            "category": "Meme"
+        },
+        {
+            "hash": "5b0b3a7022db6efc4a104d44ca7847845bbaac30d810e60733c792b61b9706b7",
+            "name": "PSG Fan Token",
+            "code": "PSGT",
+            "description": "Unofficial PSG Token. This token is just for fun and for PSG fans.\r\nIn the future, PSGT can be staked to earn NFT rewards.\r\nGrab them via airdrops, winning competitions, staking, purchasing or from being donated.\r\nFollow us in Twitter to receive your tokens.",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/520f305e-dff9-4c0e-8206-26ed2c2c7e99.png",
+            "supply": null,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": "https://twitter.com/ClubsChiaToken",
+            "twitter_url": "https://twitter.com/ClubsChiaToken",
+            "discord_url": null,
+            "category": "Meme"
+        },
+        {
+            "hash": "f55fd6a4bc7339e31305e5c23444a7805920110a473cbb2777ff42013eee2cbf",
+            "name": "Let's Coin",
+            "code": "LETSGO",
+            "description": "🌱 The First Video NFT Project on Chia! 🌱 \r\ndid:chia:1m96xecqtmw3lgxx5zgv2ht3qhn4pdvd22tq5hg5nmncwedmv24pse58hks",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/271218d4-2e11-4af4-aefe-149f4ded0b37.png",
+            "supply": null,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": "https://www.youtube.com/c/LetsGoChiaNFT",
+            "twitter_url": "https://twitter.com/LetsGoChia",
+            "discord_url": null,
+            "category": "Event"
+        },
+        {
+            "hash": "265bd83e40da62ba95330c737be25245255c9b5a0c3102daa35c60ba01acfe06",
+            "name": "Skully",
+            "code": "SKULLY",
+            "description": "Native Utility Token of The Ninth Extinction Project 9E.",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/e2d18e4c-05ef-4b1e-85e7-c3dc94092db1.jpeg",
+            "supply": null,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": "https://twitter.com/ninthextinction",
+            "twitter_url": "https://twitter.com/ninthextinction",
+            "discord_url": "https://discord.com/invite/YWzwcnw5Nu",
+            "category": "Stablecoin"
+        },
+        {
+            "hash": "ca17ac895f0b560b1bd0db6f794afb98c29a2cfe5c421a7370ea01b664e0416b",
+            "name": "Hedgie Token",
+            "code": "HEJI",
+            "description": "Everyone loves hedgehogs... Am I right? These Chia Asset Tokens will help you absorb all that hedgie cuteness. Plus, you can often trade them for exclusive NFTs or other items from the Zodiacal CATs universe. Snatch these little guys up where and when you can. Only 25,000 were minted, and there will never be any more!",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/ff8696a5-b2b0-4396-bc38-fe49cccb7117.png",
+            "supply": 82115,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": null,
+            "twitter_url": null,
+            "discord_url": "https://discord.gg/JbWRKZCpzk",
+            "category": "Meme"
+        },
+        {
+            "hash": "a32cc6a45b5ade539d96b68d6323691d4437d9a951b8cce8211ae07b904af0e7",
+            "name": "Okra Folk",
+            "code": "OKR1",
+            "description": "Okra Folk | First Okra NFT Release | Released In 4 Waves Of 250",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/185d8dd2-e64e-4f86-af16-c1814ac91c08.png",
+            "supply": null,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": "https://okra.space/nft",
+            "twitter_url": "https://twitter.com/SpaceOkra",
+            "discord_url": "https://discord.gg/2fzkaYuveH",
+            "category": "Gaming"
+        },
+        {
+            "hash": "7a66a673b0c26c68fcbe9cc84e5db3eab834d66684fe8c1367a2956df59be83c",
+            "name": "hem",
+            "code": "HEM",
+            "description": "hem is a token issued by the chia blockchain",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/49f9b574-103d-400b-a3bf-0ffae789a3ae.png",
+            "supply": 100,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": "https://hem.cc",
+            "twitter_url": null,
+            "discord_url": "https://discord.com/invite/8d3X9ZEerw",
+            "category": "Meme"
+        },
+        {
+            "hash": "e0ed5a8e325a7dbadfefd760533afb37e89d17a3ffa05e681b1c4b897d5e86b7",
+            "name": "Too Rich GOLD",
+            "code": "TRTG",
+            "description": "Limited Edition of Too Rich GOLD  token , only 1000 milted.\r\nNow in Chia Blockchain.  Discover our Metaverse TooRichCity",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/be1506db-d392-4adb-b21e-83714b1ebd4e.png",
+            "supply": null,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": "https://hhs.art",
+            "twitter_url": null,
+            "discord_url": null,
+            "category": "Platform"
+        },
+        {
+            "hash": "125ef688c3200d4a82248c31f6dcfe2dc45d549b779c0b3b1ef35568fea840b6",
+            "name": "A Golden Caesar",
+            "code": "AGIC",
+            "description": "A golden Caesar out of 100",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/40fd1e49-a331-448f-87cb-628132db1931.png",
+            "supply": null,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": "https://caesar.wales",
+            "twitter_url": "https://twitter.com/XCH_Caesar",
+            "discord_url": null,
+            "category": "Meme"
+        },
+        {
+            "hash": "446f5c3532929f71fa82f1c65f7e93170dcfbf8d59baf82a81b6f8e8f85e8a5c",
+            "name": "Abandoned Land - Gold",
+            "code": "ALGOLD",
+            "description": "Currency for Abandoned Land",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/d50a3bb0-30d2-4f62-964f-b22d4d9d85a6.png",
+            "supply": null,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": "https://abandoned.land",
+            "twitter_url": "https://twitter.com/MayorAbandoned",
+            "discord_url": "https://discord.gg/eyr56jNxym",
+            "category": "Gaming"
+        },
+        {
+            "hash": "91ffe356c7b3fc89862ec5382cd632a6605bc9b66dc16ec5e3468125727fcfd7",
+            "name": "LIV Fan Token",
+            "code": "LIVT",
+            "description": "Unofficial LIV Token. This token is just for fun and for LIV fans.\r\nIn the future, LIVT can be staked to earn NFT rewards.\r\nGrab them via airdrops, winning competitions, staking, purchasing or from being donated.\r\nFollow us in Twitter to receive your tokens.",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/05322738-cd53-4ed5-8145-3a2d43b70172.png",
+            "supply": null,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": "https://twitter.com/ClubsChiaToken",
+            "twitter_url": "https://twitter.com/ClubsChiaToken",
+            "discord_url": null,
+            "category": "Meme"
+        },
+        {
+            "hash": "b56dde344b86745b95bb3132aebe2c848a5d32943042d7c6bc37e7ee30179397",
+            "name": "Legend Coin",
+            "code": "LGND",
+            "description": "",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/08085db0-6dfb-4727-b144-213839b6a5cf.png",
+            "supply": null,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": "https://www.legendcoin.io",
+            "twitter_url": null,
+            "discord_url": null,
+            "category": "Meme"
+        },
+        {
+            "hash": "a9ec624143f15b1f769cae2f793bfa7e0e3c73baab93c3766259189b82ae9ed4",
+            "name": "Talons",
+            "code": "TALN",
+            "description": "Talons are a digital connection to Eaglebrook. Like an old school tie, a pennant or a school sweatshirt with \"EAGLEBROOK\" written across it, Talons are expressions of belonging to and being supportive of our school.  Our logo was made by Eaglebrook alumnus, Matt McInerney.",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/7e90be0b-0664-4dc3-bf45-88fd72482e8c.png",
+            "supply": null,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": "https://talons.app",
+            "twitter_url": null,
+            "discord_url": null,
+            "category": "Education"
+        },
+        {
+            "hash": "425881d0271ff45f2b905f21d007f543d8f25ef4ff2c3e81f22a7acb73fcdbc5",
+            "name": "CATMOS ZERO",
+            "code": "CATMSZ",
+            "description": "Rare commemorative token for early Catmosphere supporters. Only 100 minted. Confers advantages in CATMOS events. ",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/63f8a958-9279-4ccd-8bd6-acbab44dbe61.png",
+            "supply": null,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": "https://catmos.io/catmsz_launch",
+            "twitter_url": "https://twitter.com/CatmosCoin",
+            "discord_url": "https://discord.com/invite/r7j2XPZJYU",
+            "category": "Gaming"
+        },
+        {
+            "hash": "7d176bff0ac2e15fe6e5f57352e7c3a467b476a798dd38f30e39af7ef6cc52b4",
+            "name": "Abandoned Land - Ore",
+            "code": "ALORE",
+            "description": "Abandoned Land Ore dug from the mines.",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/a380e2db-fa62-420a-b209-55af8fcef3f2.png",
+            "supply": null,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": "https://abandoned.land",
+            "twitter_url": "https://twitter.com/MayorAbandoned",
+            "discord_url": "https://discord.gg/eyr56jNxym",
+            "category": "Gaming"
+        },
+        {
+            "hash": "4ec438355a6b7506cb85e7d330e758d7b30d0bcf44021517f094ed878f74afe0",
+            "name": "Valentine",
+            "code": "VAL",
+            "description": "Valentine:\r\n\r\nThese tokens are like those real world Valentine's Tokens that say \"a hug\" or \"a Kiss\" like in the picture below. You can also make activities \"priced\" higher. Like a hug costs 1000 VAL. A kiss costs 2000 VAL.\r\nThen you give it to your loved ones and they can give it back to you. Or they can trade it for something else. It is totally up to you and your loved ones how to use them.",
+            "chialisp": null,
+            "clvm": null,
+            "logo_url": "https://images.taildatabase.com/tails/f4a59137-d2c0-4982-b9a8-ae5f21b80c4e.png",
+            "supply": null,
+            "hashgreen": {
+                "price": null,
+                "marketcap": null
+            },
+            "website_url": "https://valentine.tk",
+            "twitter_url": "https://twitter.com/ValentineTokens",
+            "discord_url": "https://discord.gg/mR7HKSrVS9",
+            "category": "Event"
+        }
+    ],
+    "nextCursor": null
+}
