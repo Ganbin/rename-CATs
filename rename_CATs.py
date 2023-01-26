@@ -1,7 +1,7 @@
 import json
 import subprocess
 
-# Test 2
+# Test
 # To get the tails.json file : https://api.taildatabase.com/enterprise/tails
 # Need to add "x-api-version: 2" header
 # More info: https://api.taildatabase.com/docs/#/TAIL%20Database%20Enterprise%20API%20v2.0%20(Beta)/TailController_getTailsV2
